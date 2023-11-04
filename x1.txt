@@ -1,90 +1,77 @@
-{
-    "urls": [
+{"storeHouse": [
+       { "sourceUrl": "http://我不是.肥猫.love:63/接口禁止贩卖", "sourceName": "肥猫"}
+       { "sourceUrl": "http://饭太硬.top/tv","sourceName": "饭太硬"}
        {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-            "name": "肥猫"
-        }
-        }
-       {
-            "url": "http://饭太硬.top/tv",
-            "name": "饭太硬"
-        }
-       {
-            "url": "http://home.jundie.top:81/top98.json",
-            "name": "俊于"
+            "sourceUrl": "http://home.jundie.top:81/top98.json",
+           "sourceName": "俊于"
 
        {
-            "url": "https://100km.top/0",
-            "name": "纯一"
+            "sourceUrl": "https://100km.top/0",
+           "sourceName": "纯一"
         }
        {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "巧技"
+            "sourceUrl": "http://pandown.pro/tvbox/tvbox.json",
+           "sourceName": "巧技"
         }
        {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "南风"
+            "sourceUrl": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+           "sourceName": "南风"
         }
        {
-            "url": "https://weixine.net/ysc.json",
-            "name": "运输车"
+            "sourceUrl": "https://weixine.net/ysc.json",
+           "sourceName": "运输车"
         }
        {
-            "url": "https://download.kstore.space/download/2863/01.txt",
-            "name": "潇洒"
+            "sourceUrl": "https://download.kstore.space/download/2863/01.txt",
+           "sourceName": "潇洒"
         }
        {
-            "url": "https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json",
-            "name": "胖虎"
+            "sourceUrl": "https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json",
+           "sourceName": "胖虎"
         }
      {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "Yoursmile7"
+            "sourceUrl": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+           "sourceName": "Yoursmile7"
         }
      {
-            "url": "https://kebedd69.github.io/TVbox-interface/py甜蜜.json",
-            "name": "甜蜜"
+            "sourceUrl": "https://kebedd69.github.io/TVbox-interface/py甜蜜.json",
+           "sourceName": "甜蜜"
         }
      {
-            "url": "http://9xi4o.tk/0725.json",
-            "name": "4K云盘接口"
+            "sourceUrl": "http://9xi4o.tk/0725.json",
+           "sourceName": "4K云盘接口"
         }
      {
-            "url": "https://download.kstore.space/download/2863/01.txt",
-            "name": "潇洒"
+            "sourceUrl": "https://download.kstore.space/download/2863/01.txt",
+           "sourceName": "潇洒"
         }
      {
-            "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
-            "name": "哔哩学习"
+            "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
+           "sourceName": "哔哩学习"
         }
     {
-            "url": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json",
-            "name": "UndCover"
+            "sourceUrl": "https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json",
+           "sourceName": "UndCover"
         }
     {
-            "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
-            "name": "哔哩学习"
+            "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
+           "sourceName": "哔哩学习"
         }
     {
-            "url": "https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt",
-            "name": "木极"
+            "sourceUrl": "https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt",
+           "sourceName": "木极"
         }
     {
-            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-            "name": "52bsj"
+            "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+           "sourceName": "52bsj"
         }
     {
-            "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
-            "name": "哔哩学习"
+            "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
+           "sourceName": "哔哩学习"
         }
     {
-            "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
-            "name": "哔哩学习"
+            "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
+           "sourceName": "哔哩学习"
         }
-
-
-
-
-
-    ]
+ ]
 }
