@@ -41,11 +41,9 @@
 {"sourceName":"  ②②号库","sourceUrl":"      https://agit.ai/zqk219/baip/raw/branch/master/zqk19.json"}, 
 {"sourceName":"  ②③号库","sourceUrl":"      https://agit.ai/zqk219/baip/raw/branch/master/1"},
 {"sourceName":"  ②④号库","sourceUrl":"      https://agit.ai/zqk219/baip/raw/branch/master/6"},
-  
 {"sourceName":"  ②⑤号库","sourceUrl":"      https://agit.ai/zqk219/baip/raw/branch/master/7"},
-  
 {"sourceName":"  ②⑥号库","sourceUrl":"      https://agit.ai/zhanghong/jyys/raw/branch/master/2"},
-  
 {"sourceName":"  ②⑦号库","sourceUrl":"      https://agit.ai/dlee2008/66666/raw/branch/master/update_yuan.txt"}
+
  ]
 }
