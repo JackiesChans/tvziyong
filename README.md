@@ -4,7 +4,7 @@
 
 影视地址
 ```
-https://gh-proxy.com/https://raw.githubusercontent.com/JackiesChans/tvziyong/main/lx.txt
+https://ghproxy.net/https://raw.githubusercontent.com/JackiesChans/tvziyong/main/lx.txt
 ```
 直播电视地址
 ```
