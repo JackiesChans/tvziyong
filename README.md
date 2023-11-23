@@ -8,7 +8,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/JackiesChans/tvziyong/mai
 ```
 直播电视地址
 ```
-https://gh-proxy.com/https://raw.githubusercontent.com/JackiesChans/tvziyong/main/zb.txt
+https://ghproxy.net/https://raw.githubusercontent.com/JackiesChans/tvziyong/main/zb.txt
 ```
 
 未加速
