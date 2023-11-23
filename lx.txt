@@ -1,5 +1,5 @@
 {"storeHouse": [
-{"sourceName":"自用1","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/JackiesChans/tvziyong/main/x1.json"},  
+{"sourceName":"自用1","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/JackiesChans/tvziyong/main/x1.json"},  
 {"sourceName":"星河仓库","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/137165/%E6%97%A0%E6%95%8C%E5%8D%95%E4%BB%93.txt?sign=2OdmQO6OaKvgj_ioLe9B5hDU7u7DTLcKUOPLuymSbLs%3D%3A0"},  
 {"sourceName":"星河无敌仓","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/132892/%E6%98%9F%E6%B2%B3%E7%B2%89%E4%B8%9D%E4%B8%93%E5%B1%9E%E5%8D%95%E4%BB%93.txt?sign=zeaMcCi42nGSCCimP62FL7CBDoAlS4weOkRLzREs-Jc%3D%3A0"},
 {"sourceName":"星河整理","sourceUrl":"https://agit.ai/66666/mao/raw/commit/48540d1ccc7781fdd41e5e33d83c9eb69a985f86/00/xx/0.jpg"},
