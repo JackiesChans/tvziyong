@@ -1,4 +1,4 @@
-🚫玩偶姐姐,#genre#
+玩偶姐姐,#genre#
 #EXTM3U
 #EXTINF:-1,A姐分享 www.abskoop.com
 https://v4.cvhlscdn.com/20221204/dDLVEjQM/hls/index.m3u8
@@ -119,7 +119,7 @@ https://v4.cvhlscdn.com/20210918/pg4sWQLe/index.m3u8
 #EXTINF:-1,花絮-幕后花絮·2
 https://v4.cvhlscdn.com/20221105/0NXbWItw/hls/index.m3u8
 
-🚫💞信息_997788,#genre#
+其他,#genre#
 ADN-291夏目彩春,https://siwazywcdn2.com:5278/zhongwenzimu/KnjeVorl/index.m3u8
 SCOP-697,https://siwazywcdn2.com:5278/zhongwenzimu/59LHYbi4/index.m3u8
 ssis-108,https://siwazywcdn2.com:5278/zhongwenzimu/bZXowNav/index.m3u8
