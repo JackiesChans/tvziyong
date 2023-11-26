@@ -1,67 +1,435 @@
-#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+#EXTINF:-1,92 News
+http://iptvtree.net:8080/F24365/058a5194/1402
+#EXTINF:-1,A Plus
+http://iptvtree.net:8080/F24365/058a5194/49504
+#EXTINF:-1,A Sports
+http://iptvtree.net:8080/F24365/058a5194/295025
+#EXTINF:-1,Aaj Entertainment
+http://iptvtree.net:8080/F24365/058a5194/19748
+#EXTINF:-1,Aaj News
+http://iptvtree.net:8080/F24365/058a5194/1401
+#EXTINF:-1,Abb Takk
+http://iptvtree.net:8080/F24365/058a5194/1400
+#EXTINF:-1,Apna Channel
+http://iptvtree.net:8080/F24365/058a5194/76824
+#EXTINF:-1,ARY Digital Asia
+http://iptvtree.net:8080/F24365/058a5194/49510
+#EXTINF:-1,ARY Musik
+http://iptvtree.net:8080/F24365/058a5194/1398
+#EXTINF:-1,ARY News
+http://iptvtree.net:8080/F24365/058a5194/1397
+#EXTINF:-1,ARY QTV
+http://iptvtree.net:8080/F24365/058a5194/5058
+#EXTINF:-1,ARY World
+http://iptvtree.net:8080/F24365/058a5194/49494
+#EXTINF:-1,ARY Zindagi
+http://iptvtree.net:8080/F24365/058a5194/1396
+#EXTINF:-1,ATV
+http://iptvtree.net:8080/F24365/058a5194/34630
+#EXTINF:-1,AVT Khyber
+http://iptvtree.net:8080/F24365/058a5194/287724
+#EXTINF:-1,PTV Global
+http://iptvtree.net:8080/F24365/058a5194/1382
+#EXTINF:-1,PTV Home
+http://iptvtree.net:8080/F24365/058a5194/1381
+#EXTINF:-1,PTV News
+http://iptvtree.net:8080/F24365/058a5194/1380
+#EXTINF:-1,PTV Sports
+http://iptvtree.net:8080/F24365/058a5194/16633
+#EXTINF:-1,PTV World
+http://iptvtree.net:8080/F24365/058a5194/1379
+#EXTINF:-1,Public News
+http://iptvtree.net:8080/F24365/058a5194/49522
+#EXTINF:-1,Bol Entertainment
+http://iptvtree.net:8080/F24365/058a5194/49517
+#EXTINF:-1,Bol News
+http://iptvtree.net:8080/F24365/058a5194/1395
+#EXTINF:-1,Capital TV
+http://iptvtree.net:8080/F24365/058a5194/16625
+#EXTINF:-1,City 41
+http://iptvtree.net:8080/F24365/058a5194/192079
+#EXTINF:-1,Dawn News
+http://iptvtree.net:8080/F24365/058a5194/5056
+#EXTINF:-1,Discover Pakistan
+http://iptvtree.net:8080/F24365/058a5194/267107
+#EXTINF:-1,Dunya News
+http://iptvtree.net:8080/F24365/058a5194/1393
+#EXTINF:-1,Sindh TV News
+http://iptvtree.net:8080/F24365/058a5194/226398
+#EXTINF:-1,Such News
+http://iptvtree.net:8080/F24365/058a5194/197116
+#EXTINF:-1,Ajyal
+http://iptvtree.net:8080/F24365/058a5194/1293
+#EXTINF:-1,Al Aqsa
+http://iptvtree.net:8080/F24365/058a5194/284411
+#EXTINF:-1,Al Fajer
+http://iptvtree.net:8080/F24365/058a5194/266285
+#EXTINF:-1,Al Haqiqa
+http://iptvtree.net:8080/F24365/058a5194/266282
+#EXTINF:-1,Al Quds Today TV
+http://iptvtree.net:8080/F24365/058a5194/21471
+#EXTINF:-1,Alkofiya TV
+http://iptvtree.net:8080/F24365/058a5194/266281
+#EXTINF:-1,Awdeh
+http://iptvtree.net:8080/F24365/058a5194/85570
+#EXTINF:-1,Maan TV
+http://iptvtree.net:8080/F24365/058a5194/11936
+#EXTINF:-1,Musawa
+http://iptvtree.net:8080/F24365/058a5194/165025
+#EXTINF:-1,Nablus TV
+http://iptvtree.net:8080/F24365/058a5194/225385
+#EXTINF:-1,Palestine Al Yawm
+http://iptvtree.net:8080/F24365/058a5194/298411
+#EXTINF:-1,Palestine Mobasher
+http://iptvtree.net:8080/F24365/058a5194/279682
+#EXTINF:-1,Palestine Sport
+http://iptvtree.net:8080/F24365/058a5194/266284
+#EXTINF:-1,Palestine Today
+http://iptvtree.net:8080/F24365/058a5194/11195
+#EXTINF:-1,Palestine TV
+http://iptvtree.net:8080/F24365/058a5194/266278
+#EXTINF:-1,Rajeen TV
+http://iptvtree.net:8080/F24365/058a5194/284422
+#EXTINF:-1,Watar TV
+http://iptvtree.net:8080/F24365/058a5194/299805
+#EXTINF:-1,Wattan TV
+http://iptvtree.net:8080/F24365/058a5194/284425
 
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 華視新聞
-https://raw.githubusercontent.com/jqiu1608/YouTube_to_m3u/main/assets/moose_na.m3u
+#EXTINF:-1,Watan TV
+http://iptvtree.net:8080/F24365/058a5194/265120
+#EXTINF:-1,Alhayah
+http://iptvtree.net:8080/F24365/058a5194/1290
+#EXTINF:-1,Alhayah 2
+http://iptvtree.net:8080/F24365/058a5194/298410
+#EXTINF:-1,Al Masriyah
+http://iptvtree.net:8080/F24365/058a5194/265137
+#EXTINF:-1,ERTU 2
+http://iptvtree.net:8080/F24365/058a5194/11282
+#EXTINF:-1,ERTU 3 Al Kahera
+http://iptvtree.net:8080/F24365/058a5194/283135
+#EXTINF:-1,ERTU 4 Al Kanal
+http://iptvtree.net:8080/F24365/058a5194/283150
+#EXTINF:-1,ERTU 5 Al Askandria
+http://iptvtree.net:8080/F24365/058a5194/269454
+#EXTINF:-1,ERTU 6 Al Delta
+http://iptvtree.net:8080/F24365/058a5194/283149
+#EXTINF:-1,ERTU 8 Teba
+http://iptvtree.net:8080/F24365/058a5194/266144
+#EXTINF:-1,ETC
+http://iptvtree.net:8080/F24365/058a5194/298050
+#EXTINF:-1,Extra News
+http://iptvtree.net:8080/F24365/058a5194/2882
+#EXTINF:-1,Nile Culture
+http://iptvtree.net:8080/F24365/058a5194/3728
+#EXTINF:-1,Nile Drama
+http://iptvtree.net:8080/F24365/058a5194/1232
+#EXTINF:-1,Nile Family
+http://iptvtree.net:8080/F24365/058a5194/1231
+#EXTINF:-1,Nile Life
+http://iptvtree.net:8080/F24365/058a5194/1230
+#EXTINF:-1,Nile News
+http://iptvtree.net:8080/F24365/058a5194/3727
+#EXTINF:-1,Nile Sport
+http://iptvtree.net:8080/F24365/058a5194/1229
+#EXTINF:-1,Nile TV International
+http://iptvtree.net:8080/F24365/058a5194/3726
+#EXTINF:-1,CBC
+http://iptvtree.net:8080/F24365/058a5194/1265
+#EXTINF:-1,CBC Drama
+http://iptvtree.net:8080/F24365/058a5194/1264
+#EXTINF:-1,CBC Sofra
+http://iptvtree.net:8080/F24365/058a5194/2881
+#EXTINF:-1,DMC
+http://iptvtree.net:8080/F24365/058a5194/1263
+#EXTINF:-1,DMC Drama
+http://iptvtree.net:8080/F24365/058a5194/1262
+#EXTINF:-1,Mekameleen TV
+http://iptvtree.net:8080/F24365/058a5194/4958
+#EXTINF:-1,MBC Maser
+http://iptvtree.net:8080/F24365/058a5194/297543
+#EXTINF:-1,LY:  Alwatania TV
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/268583
+#EXTINF:-1,LY: 218 news
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/11242
+#EXTINF:-1,LY: Al Aan TV
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/300778
+#EXTINF:-1,LY: Al Ahrar TV
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/13645
+#EXTINF:-1,LY: Almasar TV
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/300777
+#EXTINF:-1,LY: Almustaqbal
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/21708
+#EXTINF:-1,LY: Alrasmia
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/268619
+#EXTINF:-1,LY: February
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/11258
+#EXTINF:-1,LY: Jamahiria
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/283982
+#EXTINF:-1,LY: Lebda
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/296919
+#EXTINF:-1,LY: Libya AL Mostakbal TV
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/300779
+#EXTINF:-1,LY: Libya Alhadath
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/11165
+#EXTINF:-1,LY: Libya Education
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/296920
+#EXTINF:-1,LY: Libya Sport TV
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/269430
+#EXTINF:-1,LY: Libya Sport TV 2
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/296800
+#EXTINF:-1,LY: Libyan Business
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/296917
+#EXTINF:-1,LY: Libyas
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/11182
+#EXTINF:-1,LY: Salam TV
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/290464
+#EXTINF:-1,LY: Tanasuh TV
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/44286
+#EXTINF:-1,Komala
+http://iptvtree.net:8080/F24365/058a5194/69520
+#EXTINF:-1,Komall
+http://iptvtree.net:8080/F24365/058a5194/152475
+#EXTINF:-1,Kurd Channel
+http://iptvtree.net:8080/F24365/058a5194/166234
+#EXTINF:-1,Kurdistan TV
+http://iptvtree.net:8080/F24365/058a5194/808
+#EXTINF:-1,KurdMax
+http://iptvtree.net:8080/F24365/058a5194/801
+#EXTINF:-1,Kurdsat
+http://iptvtree.net:8080/F24365/058a5194/816
+#EXTINF:-1,Kurdsat News
+http://iptvtree.net:8080/F24365/058a5194/811
+#EXTINF:-1,NRT
+http://iptvtree.net:8080/F24365/058a5194/287499
+#EXTINF:-1,NRT 2
+http://iptvtree.net:8080/F24365/058a5194/820
+#EXTINF:-1,Rudaw
+http://iptvtree.net:8080/F24365/058a5194/814
+#EXTINF:-1,SADA
+http://iptvtree.net:8080/F24365/058a5194/172547
+#EXTINF:-1,Sahar TV
+http://iptvtree.net:8080/F24365/058a5194/300763
+#EXTINF:-1,1 TV
+http://iptvtree.net:8080/F24365/058a5194/18183
+#EXTINF:-1,Afghan Javan
+http://iptvtree.net:8080/F24365/058a5194/276206
+#EXTINF:-1,Afghan Time
+http://iptvtree.net:8080/F24365/058a5194/196435
+#EXTINF:-1,Afghanistan International
+http://iptvtree.net:8080/F24365/058a5194/296838
+#EXTINF:-1,AMC
+http://iptvtree.net:8080/F24365/058a5194/66385
+#EXTINF:-1,Arezo TV
+http://iptvtree.net:8080/F24365/058a5194/5499
+#EXTINF:-1,Ariana TV
+http://iptvtree.net:8080/F24365/058a5194/285853
+#EXTINF:-1,ATN International
+http://iptvtree.net:8080/F24365/058a5194/296645
+#EXTINF:-1,ATN Jahani
+http://iptvtree.net:8080/F24365/058a5194/296646
+#EXTINF:-1,ATN Jahani News
+http://iptvtree.net:8080/F24365/058a5194/296647
+#EXTINF:-1,ATN News
+http://iptvtree.net:8080/F24365/058a5194/54314
+#EXTINF:-1,Bahar TV
+http://iptvtree.net:8080/F24365/058a5194/66170
+#EXTINF:-1,Dunya Naw
+http://iptvtree.net:8080/F24365/058a5194/272812
+#EXTINF:-1,Hasti TV
+http://iptvtree.net:8080/F24365/058a5194/287454
+#EXTINF:-1,Hewad TV
+http://iptvtree.net:8080/F24365/058a5194/285855
+#EXTINF:-1,Iman TV
+http://iptvtree.net:8080/F24365/058a5194/166201
+#EXTINF:-1,Kayhan
+http://iptvtree.net:8080/F24365/058a5194/66163
+#EXTINF:-1,Lemar TV
+http://iptvtree.net:8080/F24365/058a5194/66177
+#EXTINF:-1,Noor TV
+http://iptvtree.net:8080/F24365/058a5194/66178
+#EXTINF:-1,Pamir TV
+http://iptvtree.net:8080/F24365/058a5194/66179
+#EXTINF:-1,Payam e Afghan TV
+http://iptvtree.net:8080/F24365/058a5194/66174
+#EXTINF:-1,RTA
+http://iptvtree.net:8080/F24365/058a5194/300674
+#EXTINF:-1,RTA Sport
+http://iptvtree.net:8080/F24365/058a5194/66167
+#EXTINF:-1,Shamshad TV
+http://iptvtree.net:8080/F24365/058a5194/159104
+#EXTINF:-1,Tamadon TV
+http://iptvtree.net:8080/F24365/058a5194/54330
+#EXTINF:-1,Tolo News
+http://iptvtree.net:8080/F24365/058a5194/66181
+#EXTINF:-1,Tolo TV
+http://iptvtree.net:8080/F24365/058a5194/66165
+#EXTINF:-1,Aden TV
+http://iptvtree.net:8080/F24365/058a5194/266324
+#EXTINF:-1,AL Mahrah TV
+http://iptvtree.net:8080/F24365/058a5194/266325
+#EXTINF:-1,Alghad Almushreq
+http://iptvtree.net:8080/F24365/058a5194/281959
+#EXTINF:-1,Alhawyah
+http://iptvtree.net:8080/F24365/058a5194/298407
+#EXTINF:-1,Almahriah TV
+http://iptvtree.net:8080/F24365/058a5194/266326
+#EXTINF:-1,Almasirah Mubasher
+http://iptvtree.net:8080/F24365/058a5194/166341
+#EXTINF:-1,AlMasirah TV
+http://iptvtree.net:8080/F24365/058a5194/166245
+#EXTINF:-1,Belqees TV
+http://iptvtree.net:8080/F24365/058a5194/266323
+#EXTINF:-1,Hadramout
+http://iptvtree.net:8080/F24365/058a5194/266328
+#EXTINF:-1,Sheba
+http://iptvtree.net:8080/F24365/058a5194/298404
+#EXTINF:-1,Suhail TV
+http://iptvtree.net:8080/F24365/058a5194/268914
+#EXTINF:-1,Yemen Documentary
+http://iptvtree.net:8080/F24365/058a5194/298401
+#EXTINF:-1,Yemen Education
+http://iptvtree.net:8080/F24365/058a5194/298402
+#EXTINF:-1,Yemen Shabab
+http://iptvtree.net:8080/F24365/058a5194/266321
+#EXTINF:-1,Yemen Today TV
+http://iptvtree.net:8080/F24365/058a5194/266320
+#EXTINF:-1,Yemen TV
+http://iptvtree.net:8080/F24365/058a5194/266322
 
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 中視新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701000682/ei/iuFiZZSIFue7_9EP8ZSZwAE/ip/20.97.191.98/id/TCnaIE_SAtM.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0g5CShXSeLJbOzy2k8Gu2UaHAbOLMUClyBP1A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAJs58wU-B8UwXnATIG-uuZd9oankmm3b7QHOTTgPgWdSAiAliTZNhUAX9DyLG3cy5HoPzZM4Ti4uQDnMR0B24l9SrA%3D%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 台視新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701000682/ei/iuFiZeGeNd2h_9EPhPeUkAM/ip/20.97.191.98/id/WOyBYNc-hNA.2/source/yt_live_broadcast/requiressl/yes/tx/51018866/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9NzM4agT2S9BO5hodHwVrSxQeQO2bKMdk0cIA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgWJEmXVl9NmDs_0QTRCJ6kW7srMppZI0wtbB7fW-0Xr4CIQCV3_Jyr1hjxbmhVq7lyojzcZQcyWuZesuwgo9zIbwWzg%3D%3D/file/index.m3u8
+#EXTINF:-1,IRIB 1
+http://iptvtree.net:8080/F24365/058a5194/5492
+#EXTINF:-1,IRIB 2
+http://iptvtree.net:8080/F24365/058a5194/5387
+#EXTINF:-1,IRIB 3
+http://iptvtree.net:8080/F24365/058a5194/5386
+#EXTINF:-1,IRIB 3 satellite
+http://iptvtree.net:8080/F24365/058a5194/296739
+#EXTINF:-1,IRIB 4
+http://iptvtree.net:8080/F24365/058a5194/56814
+#EXTINF:-1,IRIB Kordestan
+http://iptvtree.net:8080/F24365/058a5194/64958
+#EXTINF:-1,IRIB Sabalan
+http://iptvtree.net:8080/F24365/058a5194/285274
+#EXTINF:-1,IRIB Mahabad
+http://iptvtree.net:8080/F24365/058a5194/285276
+#EXTINF:-1,IRIB Sahar Afghan
+http://iptvtree.net:8080/F24365/058a5194/299616
+#EXTINF:-1,IRIB Sahar Kurdi
+http://iptvtree.net:8080/F24365/058a5194/14710
+#EXTINF:-1,IRIB Semnan
+http://iptvtree.net:8080/F24365/058a5194/64953
+#EXTINF:-1,IRIB Taban
+http://iptvtree.net:8080/F24365/058a5194/285271
+#EXTINF:-1,IRIB Zagros
+http://iptvtree.net:8080/F24365/058a5194/296457
 
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 民視新聞
-https://raw.githubusercontent.com/jqiu1608/YouTube_to_m3u/main/assets/moose_na.m3u
+#EXTINF:-1,Al Aqila TV
+http://iptvtree.net:8080/F24365/058a5194/270536
+#EXTINF:-1,Al Ayyam TV
+http://iptvtree.net:8080/F24365/058a5194/270567
+#EXTINF:-1,AL Eshraq TV
+http://iptvtree.net:8080/F24365/058a5194/295176
+#EXTINF:-1,Al Etejah
+http://iptvtree.net:8080/F24365/058a5194/266297
+#EXTINF:-1,Al Janoubia
+http://iptvtree.net:8080/F24365/058a5194/296848
+#EXTINF:-1,Al Mawsleya TV
+http://iptvtree.net:8080/F24365/058a5194/11332
+#EXTINF:-1,Al Naeem TV
+http://iptvtree.net:8080/F24365/058a5194/295177
+#EXTINF:-1,Al Nujaba TV
+http://iptvtree.net:8080/F24365/058a5194/270571
+#EXTINF:-1,Al Rafidain TV
+http://iptvtree.net:8080/F24365/058a5194/225175
+#EXTINF:-1,Al Rasheed TV
+http://iptvtree.net:8080/F24365/058a5194/43735
+#EXTINF:-1,Al Salam TV
+http://iptvtree.net:8080/F24365/058a5194/270581
+#EXTINF:-1,Al Zahra TV
+http://iptvtree.net:8080/F24365/058a5194/268820
+#EXTINF:-1,Alahad TV
+http://iptvtree.net:8080/F24365/058a5194/300340
+#EXTINF:-1,Alanes TV
+http://iptvtree.net:8080/F24365/058a5194/283127
+#EXTINF:-1,Alforat TV
+http://iptvtree.net:8080/F24365/058a5194/266301
+#EXTINF:-1,Alghadeer TV
+http://iptvtree.net:8080/F24365/058a5194/11256
+#EXTINF:-1,Alhurra
+http://iptvtree.net:8080/F24365/058a5194/1289
+#EXTINF:-1,Alkafeel TV
+http://iptvtree.net:8080/F24365/058a5194/299397
+#EXTINF:-1,Alsumaria
+http://iptvtree.net:8080/F24365/058a5194/22039
+#EXTINF:-1,Bayyinat TV
+http://iptvtree.net:8080/F24365/058a5194/299398
+#EXTINF:-1,Dawacom TV
+http://iptvtree.net:8080/F24365/058a5194/283129
+#EXTINF:-1,Dua Channel
+http://iptvtree.net:8080/F24365/058a5194/267805
+#EXTINF:-1,Hona Baghdad TV
+http://iptvtree.net:8080/F24365/058a5194/11346
+#EXTINF:-1,I News
+http://iptvtree.net:8080/F24365/058a5194/121022
+#EXTINF:-1,Imam Ali TV
+http://iptvtree.net:8080/F24365/058a5194/283123
+#EXTINF:-1,Iraq 24
+http://iptvtree.net:8080/F24365/058a5194/283120
+#EXTINF:-1,Iraq Educational sat
+http://iptvtree.net:8080/F24365/058a5194/266525
+#EXTINF:-1,Iraq Future TV
+http://iptvtree.net:8080/F24365/058a5194/225963
+#EXTINF:-1,Iraqia General
+http://iptvtree.net:8080/F24365/058a5194/225167
+#EXTINF:-1,Iraqia News
+http://iptvtree.net:8080/F24365/058a5194/33077
+#EXTINF:-1,Iraqia Sport
+http://iptvtree.net:8080/F24365/058a5194/283134
+#EXTINF:-1,Iraqia Syriac
+http://iptvtree.net:8080/F24365/058a5194/270565
+#EXTINF:-1,Iraqia Turkmen
+http://iptvtree.net:8080/F24365/058a5194/266509
+#EXTINF:-1,Karbala
+http://iptvtree.net:8080/F24365/058a5194/266526
+#EXTINF:-1,Kirkuk TV
+http://iptvtree.net:8080/F24365/058a5194/14894
+#EXTINF:-1,Marjaeyat
+http://iptvtree.net:8080/F24365/058a5194/283132
+#EXTINF:-1,MBC Iraq
+http://iptvtree.net:8080/F24365/058a5194/225136
+#EXTINF:-1,Om AlBaneen TV
+http://iptvtree.net:8080/F24365/058a5194/270582
+#EXTINF:-1,Samarra TV
+http://iptvtree.net:8080/F24365/058a5194/64284
 
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 東森新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701000684/ei/jOFiZZ29EKuH_9EPjOugyAM/ip/20.97.191.98/id/6gXbFIaRJt0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzEVOdt-yfgbaXASjkufSia11XBbGVtyUbqjsA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgdEkQDfu9xLw_TUbtMPBblJhwucdjyi0v2lQdittyU6ECIDDQXB2XtL47yyyt7PKiTPkj1MR-aFUXFksUYPo0Bo38/file/index.m3u8
 
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 東森財經
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701000684/ei/jOFiZeyXL6qV_9EPi_WlWA/ip/20.97.191.98/id/WHEPzbFA3hw.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-bAkTu3JsajmgkIiilI8m9cZdSwYHueSrNgKg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRAIgZ2jtFXnXbffIbBb5txwEZwSZN9JUySq_6pCVHA-HMt4CIBRB41CWMKyPP7HFZM8sa5TAqXksvJsqBG7Ish2_i3wm/file/index.m3u8
 
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 三立新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701000685/ei/jeFiZZH8EcuJ_9EPyYiL0A8/ip/20.97.191.98/id/5jhLKca5VUI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fy6nHtL6nsFxouCqN4L7S8JKzLFLH9JRhTMruA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhANoS5MqcBRDz4pVm05qPjzVehRU9342LL4iMFOwjMAy3AiEA79NoJJf2k4A7SuVaDv0KTUKQ-aQ_6l5FewQR2Ty55Lk%3D/file/index.m3u8
+#EXTINF:-1,IR Simaye Azadi Iranntv
+https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
+#EXTINF:-1, Al Manar Tv (Lebanon)
+https://manar.live:443/iptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Al Mayadeen Tv (Lebanon) 
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1,Egypt Qaf TV
+https://mn-nl.mncdn.com:443/qaf/live/chunklist.m3u8
+#EXTINF:-1,Egypt TEN (Tahrir Network) TV
+https://weyyak-live.akamaized.net:443/weyyak_ten_tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 三立iNEWS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701000685/ei/jeFiZau9MrCk_9EP3Nmv2Ac/ip/20.97.191.98/id/CKjSm5ZeehE.85/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxm2kTYoTZr4AKTYnEkPEYjng_Jxx1NgYTQ1Dg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAJaLJOZaHfPVi5r2-pcohpXkdq6vRZrC15wjbRsozFq0AiBGAqesxwKYeDlpnURjenxl-pcOKqWNqp0oN43pTDHuSQ%3D%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 寰宇新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701000686/ei/juFiZeHvFfqX_9EPuPqX8AM/ip/20.97.191.98/id/vOue3tgccd0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-QDNMtdxqOcb-UiVkvdh7NBLixT8qWD6N2LBg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhALbG3TJ0vo4FVWCIZ6w9bbVqXRrcr4SSQpgBs5F89jreAiAe_WFCtGANa7mJb0c1pJzixYq0R54EQwixK3wSQifL5Q%3D%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", TVBS新聞
-https://raw.githubusercontent.com/jqiu1608/YouTube_to_m3u/main/assets/moose_na.m3u
+#EXTINF:-1,PK| PTV Bolan
+https://ptvbkp.nayatel.com/transcoder/ptvbolantrc_source/playlist.m3u8
+#EXTINF:-1,PK| PTV NATIONAL
+https://ptvbkp.nayatel.com/transcoder/ptvnationaltrc_source/playlist.m3u8
+#EXTINF:-1 tvg-id="Ahlebait.tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwURTPDic9avTpG4XwJjigy7u___BZCxujTA&usqp=CAU" group-title="Shia Channels",Ahlebait TV 
+https://stream.wpbond.com/live/ahlebait1.m3u8
 
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", TVBS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701000688/ei/j-FiZe7cOd6J_9EP_buF2A8/ip/20.97.191.98/id/0il3JZNv934.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8De9p-Ico_rW6Yqc4ivpziAt2g-TYzElNDjfw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhANghM9HFDfrz0-7mrPi3T0O4Ba0OfG9tdQ2EnYd7qaEwAiBl5FdKhcy6CCu3x8g_ZjvyJZJsRV_9ABmnbLP-1kCqLQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 新唐人亞太台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701000688/ei/kOFiZeTOFYOJ_9EPmuC0-Aw/ip/20.97.191.98/id/WIhgU_mc05A.4/source/yt_live_broadcast/requiressl/yes/tx/51033616/txs/51033612%2C51033613%2C51033614%2C51033615%2C51033616%2C51033617%2C51033618%2C51033619%2C51033620/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5rZ1DqnfrQshmmGwTu7xGK_oKkvvyBd888QVg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAOrdDtJClWcJXFSgmaekdoHi6jLKlyQJ_QPaX_yM2I7iAiEAqwNL-qGQ1AAG8tBwJBGYBaZjToAUqzU2dpybXEEcI50%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 中天新聞
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701000689/ei/kOFiZcjrOuqG_9EP3oiMCA/ip/20.97.191.98/id/jufsmo8Aeh8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7wnr9at8_k3_sVROX62yHyRSIjgkmSLqv8hyg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAKTbtsfPJzPORAgCzehKOIoso-WGQlIoL8auyjPcTKcZAiAtdN4Mk_L7_sZH1eRvZycoFkvl7_01IPNTnJUjh-DqEw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Taiwan" tvg-logo="" tvg-id="", 公視
-https://raw.githubusercontent.com/jqiu1608/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Taiwan" tvg-logo="" tvg-id="", 公視台語
-https://raw.githubusercontent.com/jqiu1608/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Taiwan" tvg-logo="" tvg-id="", 大愛1台
-https://raw.githubusercontent.com/jqiu1608/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Taiwan" tvg-logo="" tvg-id="", 大愛2台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701000691/ei/k-FiZeHOKfeH_9EP0Kmf2Ac/ip/20.97.191.98/id/DTNkEm6jaqQ.9/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-IVh-jRtl7rR-lb1Q0x-mVwdwDM8U8hpQ6q3Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAN8ljOYHjtyls3uHixvmk3VZfpJvhHdo2Vkvsoq8L-wuAiB_OITPKvUzQqXGxPlEZHQOa7y7KECNqlZTQDNxeJM-5Q%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Taiwan" tvg-logo="" tvg-id="", 大愛3台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701000692/ei/lOFiZZiTCt65_9EPle-C-A0/ip/20.97.191.98/id/MIqUplvSRWA.9/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fz8F8vrqOj73XCfBhyit0Tn9wCVdcliKnxah7A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgNGZy0Vm0nXDqR_Zt8V99S5UxmCgX4ARNLX-QlA3i3IICIQCtiH4det1gMJAGy9-c6_FnXTLBb8uGlYLmQHFpqoP5yQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 國會頻道1
-https://raw.githubusercontent.com/jqiu1608/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", 國會頻道2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701000693/ei/leFiZbj9IJu3_9EP-Jcy/ip/20.97.191.98/id/RAP4h3q6_Sg.4/source/yt_live_broadcast/requiressl/yes/tx/51018868/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxavupooS4QAmjnyeRRUwnr3vpgZtUQjjxLZHA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgSPPmfsWc9S5UbYug6SdGdQ3EUfqcPgyS5BwuIbK4vdsCIQCnUXtBX6YHRiOY8JviqTI2IreEQFVqllwZTvAkSLohaw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Taiwan" tvg-logo="" tvg-id="", 運通財經
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701000694/ei/luFiZZGJBe6O_9EPg_qXuAg/ip/20.97.191.98/id/KrORwDaq0Eo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f77EfPtm1UENYYYK29kD9CMaE195YTY5xgAQxA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAO9O-IEwmjjQhL-DQQul-JqsHCvRtd_0tkLOcobjFwNRAiA5vAu5DKqPWlKS5E5KYNlVCPSS8BBOnGR_WYX5YcNtZw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Taiwan" tvg-logo="" tvg-id="", 全球財經
-https://raw.githubusercontent.com/jqiu1608/YouTube_to_m3u/main/assets/moose_na.m3u
+#EXTINF:-1 tvg-id="21" tvg-country="Pakistan" tvg-language="Urdu" group-title="Shia #EXTINF:-1  tvg-logo="http://ahlebaittv.net/wp-content/uploads/2017/11/cropped-Ahlebait-Tv-Logo-for-Website.png" tvg-name="Hidayat TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/hidayat.jpg",Hidayat TV (1080)
+https://stream.wpbond.com/live/hidayat1.m3u8
+#EXTINF:-1 tvg-id="Win TV" tvg-logo="https://shiachannel.in/livetv/img/channels/win.png" group-title="Shia Channels",Channel Win TV
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/92455
+#EXTINF:-1 tvg-id="Zainabia TV" tvg-logo="https://shiachannel.in/livetv/img/channels/zainabia.jpg" group-title="Shia Channels",Zainabia TV
+https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
+#EXTINF:-1 tvg-id="Ali TV" tvg-logo="https://shiachannel.in/livetv/img/channels/alitv.jpg" group-title="Shia Channels",Ali TV
+https://alitv.livebox.co.in/alitvhls/live.m3u8
