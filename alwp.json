@@ -1,6 +1,16 @@
 {
   "warningText": "🐼提醒您:本接口全部为网盘高清接口🐼",
-"sites":[
+  "sites": [
+    {
+      "key": "dr_豆瓣",
+      "name": "🔍豆瓣首页",
+      "type": 3,
+      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://agit.ai/fantaiying/fty/raw/branch/master/JS/js/drpy.js"
+    },
 {
       "key": "Zhaozy",
       "name": "🖥┃阿里┃找资源",
@@ -195,5 +205,5 @@
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     }
-]
+ ]
 }
