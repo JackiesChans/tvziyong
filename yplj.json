@@ -1,5 +1,4 @@
 {"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/JackiesChans/tvziyong/main/ypwj.jar;md5;67e52c1d532ef74313b08c86ea90505c",
-"wallpaper":"https://api.likepoems.com/img/bing",
 "sites":
 	[{"key":"豆瓣","name":"云盘｜首页","type":3,"api":"csp_Douban","searchable":0},
 	{"key":"阿里云盘登录","name":"云盘｜登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
