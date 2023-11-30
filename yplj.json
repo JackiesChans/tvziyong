@@ -27,5 +27,5 @@
 	{"key":"云盘分享社","name":"云盘｜分享社","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/云盘分享社.json"},
 	{"key":"Gitcafe","name":"云盘｜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"}],
 "lives":
-	[{"name":"live","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/JackiesChans/tvziyong/main/%E7%9B%B4%E6%92%AD%E6%BA%90/%E9%AB%98%E6%B8%85iptv.txt","playerType":1}]
+	[{"name":"自用直播","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/JackiesChans/tvziyong/main/%E7%9B%B4%E6%92%AD%E6%BA%90/%E9%AB%98%E6%B8%85iptv.txt","playerType":1}]
 }
