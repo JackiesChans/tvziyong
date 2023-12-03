@@ -1,5 +1,9 @@
  {
-    "urls": [   
+    "urls": [
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/JackiesChans/ypzy/main/%E4%BA%91%E7%9B%98/yplj.json",
+            "name": "云盘资源"
+        },
         {
             "url": "http://小白.love",
             "name": "肥猫"
