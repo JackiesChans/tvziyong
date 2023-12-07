@@ -39,6 +39,22 @@
         {
             "url": "https://kebedd69.github.io/TVbox-interface/py甜蜜.json",
             "name": "甜蜜"
-        }
+        },
+        {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.json",
+            "name": "moeyy"
+        },
+        {
+            "url": "https://weixine.net/ysc.json",
+            "name": "网络接口"
+        },
+        {
+            "url": "http://meowtv.cn/tv",
+            "name": "neowTV"
+        },
+        {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.json",
+            "name": "moeyy"
+        }    
     ]
 }
