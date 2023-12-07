@@ -11,15 +11,7 @@
         {
             "url": "http://www.饭太硬.top/tv",
             "name": "饭太硬"
-        },  
-        {
-            "url": "https://tvbox.cainisi.cf",
-            "name": "菜尼斯"
-        } ,      
-        {
-            "url": "http://home.jundie.top:81/top98.json",
-            "name": "俊于"
-        },
+        },      
         {
             "url": "https://100km.top/0",
             "name": "纯一"
@@ -41,25 +33,13 @@
             "name": "甜蜜"
         },
         {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.json",
-            "name": "moeyy"
-        },
-        {
-            "url": "https://weixine.net/ysc.json",
-            "name": "网络接口"
-        },
-        {
             "url": "http://meowtv.cn/tv",
             "name": "neowTV"
         },
         {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "FongMi"
-        },    
-        {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "巧儿"
-        },        
+        },       
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "俊哥"
@@ -75,38 +55,6 @@
         {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
             "name": "巧技二"
-        },     
-        {
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
-            "name": "霜辉月明"
-        },     
-        {
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
-            "name": "PGone"
-        },      
-        {
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "高天流云js"
-        },      
-        {
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.jsonhttps://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-            "name": "高天流云XYQ"
-        },      
-        {
-            "url": "http://yydsys.top/duo",
-            "name": "多多家庭接口"
-        },      
-        {
-            "url": "http://yydsys.top/duo/ali",
-            "name": "阿里精品"
-        },      
-        {
-            "url": "https://jihulab.com/iduo/apps/-/raw/main/fast.json",
-            "name": "多仓库接口"
-        },  
-        {
-            "url": "https://jihulab.com/iduoduo/apps/-/raw/main/duo.json",
-            "name": "多线路接口"
-        } 
+        }
     ]
 }
