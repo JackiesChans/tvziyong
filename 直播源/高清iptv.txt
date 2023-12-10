@@ -192,9 +192,7 @@ CCTV4K,http://159.75.85.63:5679/cctv4k.php
 CCTV4K,http://lu1.cc/itv/php/cctv4k.php
 CCTV4K,http://r.jdshipin.com/krMB5
 CCTV4K,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/001/2000266303.m3u8
-
 CCTV4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/TVOD/3/224/3221228228/index.m3u8 
-
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/TVOD/3/224/3221228165/index.m3u8
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/TVOD/3/224/3221228165/index.m3u8?icpid=3&amp;RTS=1659435610&amp;from=40&amp;popid=40&amp;hms_devid=2039&amp;prioritypopid=40&amp;vqe=3
 CCTV8K,http://ott.mobaibox.com/TVOD/1/224/3221228165/index.m3u8
@@ -528,6 +526,398 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com ... 21226462/index.m3u8
 东南卫视,http://221.213.43.82:8888/newlive/live/hls/47/live.m3u8
 海南卫视,http://221.213.43.82:8888/newlive/live/hls/50/live.m3u8
 西藏卫视,https://tv.vtibet.cn:443/live/EfgSmE4jCTBtvchannel3.m3u8
+
+❤️综合,#genre#
+//央视4K
+CCTV-1    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?  
+CCTV-1    2K,http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8 
+CCTV-1    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8 
+CCTV-1    2K,http://39.134.61.219/PLTV/88888888/224/3221226443/index.m3u8   
+CCTV-2    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8  
+CCTV-2    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?   
+CCTV-3    2K,http://111.20.40.172/PLTV/88888893/224/3221226397/index.m3u8   
+CCTV-4    2K,http://jycb.f3322.net:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0  
+CCTV-4    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8? 
+CCTV-4    2K,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?   
+CCTV-5    2K,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?  
+CCTV-5    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8 
+CCTV-5    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8   
+CCTV-5+   2K,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0  
+CCTV-5+   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8? 
+CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8   
+CCTV-6    2K,http://111.20.40.167/PLTV/88888893/224/3221226393/index.m3u8 
+CCTV-6    2K,http://111.20.40.166/PLTV/88888893/224/3221226393/index.m3u8   
+CCTV-7    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8  
+CCTV-8    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?  
+CCTV-8    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8 
+CCTV-8    2K,http://111.20.40.172/PLTV/88888893/224/3221226391/index.m3u8   
+CCTV-9    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?  
+CCTV-9    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8 
+CCTV-9    2K,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8   
+CCTV-10   2K,http://222.71.90.218:8888/newlive/live/hls/11/live.m3u8  
+CCTV-10   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?        
+CCTV-13   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?  
+CCTV-13   2K,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8 
+CCTV-13   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8 
+CCTV-13   2K,http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8  
+CCTV-14   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8?   
+CCTV-15   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?    
+CCTV-16   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?  
+CCTV-16   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8 
+CCTV-16   2K,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
+
+//卫士
+浙江卫视    2K,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8 
+浙江卫视    2K,http://221.2.36.34:8888/newlive/live/hls/24/live.m3u8 
+浙江卫视    2K,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8   
+江苏卫视    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8? 
+江苏卫视    2K,http://221.2.36.34:8888/newlive/live/hls/22/live.m3u8   
+江西卫视    2K,http://221.2.36.34:8888/newlive/live/hls/48/live.m3u8   
+广东卫视    2K,http://221.2.36.34:8888/newlive/live/hls/21/live.m3u8   
+广西卫视    2K,http://222.71.90.218:8888/newlive/live/hls/40/live.m3u8    
+深圳卫视    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?   
+安徽卫视    2K,http://221.2.36.34:8888/newlive/live/hls/25/live.m3u8   
+北京卫视    2K,http://221.2.36.34:8888/newlive/live/hls/19/live.m3u8 
+北京卫视    2K,http://222.71.90.218:8888/newlive/live/hls/18/live.m3u8    
+天津卫视    2K,http://221.2.36.34:8888/newlive/live/hls/42/live.m3u8 
+天津卫视    2K,http://222.71.90.218:8888/newlive/live/hls/32/live.m3u8    
+东方卫视    2K,http://221.2.36.34:8888/newlive/live/hls/20/live.m3u8 
+东方卫视    2K,http://222.71.90.218:8888/newlive/live/hls/19/live.m3u8    
+山东卫视    2K,http://221.2.36.34:8888/newlive/live/hls/30/live.m3u8 
+山东卫视    2K,http://222.71.90.218:8888/newlive/live/hls/26/live.m3u8   
+湖北卫视    2K,http://221.2.36.34:8888/newlive/live/hls/34/live.m3u8 
+湖北卫视    2K,http://222.71.90.218:8888/newlive/live/hls/27/live.m3u8       
+湖南卫视    2K,http://222.71.90.218:8888/newlive/live/hls/22/live.m3u8      
+重庆卫视    2K,http://221.2.36.34:8888/newlive/live/hls/31/live.m3u8    
+青海卫视    2K,http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8   
+吉林卫视    2K,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8
+CCTV-1综合,http://cloud.bytelife.top:4022/udp/239.77.0.30:5146
+CCTV-1,http://cloud.bytelife.top:4022/udp/239.77.1.20:5146
+CCTV-1高清,http://cloud.bytelife.top:4022/udp/239.77.1.17:5146
+CCTV-1高清,http://cloud.bytelife.top:4022/udp/239.77.1.144:5146
+CCTV-1高清(CCTV -1综合高清),http://cloud.bytelife.top:4022/udp/239.77.0.86:5146
+CCTV-1超清,http://cloud.bytelife.top:4022/udp/239.77.0.129:5146
+CCTV-2财经,http://cloud.bytelife.top:4022/udp/239.77.0.31:5146
+CCTV-2,http://cloud.bytelife.top:4022/udp/239.77.1.28:5146
+CCTV-2高清,http://cloud.bytelife.top:4022/udp/239.77.1.158:5146
+CCTV-2高清 (CAVS),http://cloud.bytelife.top:4022/udp/239.253.43.17:5146
+CCTV-2高清测试(CCTV -2财经高清),http://cloud.bytelife.top:4022/udp/239.77.0.137:5146
+CCTV-3综艺,http://cloud.bytelife.top:4022/udp/239.77.0.32:5146
+CCTV-3高清,http://cloud.bytelife.top:4022/udp/239.77.0.169:5146
+CCTV-3超清 (CAVS),http://cloud.bytelife.top:4022/udp/239.77.0.175:5146
+CCTV-4中文国际,http://cloud.bytelife.top:4022/udp/239.77.0.33:5146
+CCTV-4,http://cloud.bytelife.top:4022/udp/239.77.1.41:5146
+CCTV-4高清,http://cloud.bytelife.top:4022/udp/239.77.1.163:5146
+CCTV-4高清,http://cloud.bytelife.top:4022/udp/239.77.1.166:5146
+CCTV-4高清,http://cloud.bytelife.top:4022/udp/239.77.0.78:5146
+CCTV-5体育,http://cloud.bytelife.top:4022/udp/239.77.0.34:5146
+CCTV-5高清,http://cloud.bytelife.top:4022/udp/239.77.0.170:5146
+CCTV-5超清 (CAVS),http://cloud.bytelife.top:4022/udp/239.77.0.177:5146
+CCTV-5+,http://cloud.bytelife.top:4022/udp/239.77.1.146:5146
+CCTV-5+高清,http://cloud.bytelife.top:4022/udp/239.77.0.87:5146
+CCTV-5+高清,http://cloud.bytelife.top:4022/udp/239.77.1.31:5146
+CCTV-5+高清,http://cloud.bytelife.top:4022/udp/239.77.1.147:5146
+CCTV-6电影,http://cloud.bytelife.top:4022/udp/239.77.0.35:5146
+CCTV-6高清,http://cloud.bytelife.top:4022/udp/239.77.0.171:5146
+CCTV-6超清 (CAVS),http://cloud.bytelife.top:4022/udp/239.77.0.178:5146
+CCTV-7国防军事,http://cloud.bytelife.top:4022/udp/239.77.0.36:5146
+CCTV-7,http://cloud.bytelife.top:4022/udp/239.77.1.24:5146
+CCTV-7高清,http://cloud.bytelife.top:4022/udp/239.77.1.159:5146
+CCTV-7高清 (CAVS),http://cloud.bytelife.top:4022/udp/239.77.1.167:5146
+CCTV-7高清测试(CCTV -7军事农业高清),http://cloud.bytelife.top:4022/udp/239.77.0.138:5146
+CCTV-8电视剧,http://cloud.bytelife.top:4022/udp/239.77.0.37:5146
+CCTV-8高清,http://cloud.bytelife.top:4022/udp/239.77.0.172:5146
+CCTV-8超清 (CAVS),http://cloud.bytelife.top:4022/udp/239.77.0.181:5146
+CCTV-9纪录,http://cloud.bytelife.top:4022/udp/239.77.0.38:5146
+CCTV-9,http://cloud.bytelife.top:4022/udp/239.77.1.65:5146
+CCTV-9高清,http://cloud.bytelife.top:4022/udp/239.77.1.160:5146
+CCTV-9高清 (CAVS),http://cloud.bytelife.top:4022/udp/239.77.1.168:5146
+CCTV-9高清测试,http://cloud.bytelife.top:4022/udp/239.77.0.135:5146
+CCTV-10科教,http://cloud.bytelife.top:4022/udp/239.77.0.39:5146
+CCTV-10,http://cloud.bytelife.top:4022/udp/239.77.1.25:5146
+CCTV-10高清,http://cloud.bytelife.top:4022/udp/239.77.1.113:5146
+CCTV-10高清 (CAVS),http://cloud.bytelife.top:4022/udp/239.77.1.169:5146
+CCTV-10高清测试(CCTV-10科教高清),http://cloud.bytelife.top:4022/udp/239.77.0.134:5146
+CCTV-11戏曲,http://cloud.bytelife.top:4022/udp/239.77.0.40:5146
+CCTV-11,http://cloud.bytelife.top:4022/udp/239.77.1.42:5146
+CCTV-11高清,http://cloud.bytelife.top:4022/udp/239.77.1.238:5146
+CCTV-12社会与法,http://cloud.bytelife.top:4022/udp/239.77.0.41:5146
+CCTV-12,http://cloud.bytelife.top:4022/udp/239.77.1.10:5146
+CCTV-12高清,http://cloud.bytelife.top:4022/udp/239.77.1.109:5146
+CCTV-12高清 (CAVS),http://cloud.bytelife.top:4022/udp/239.77.1.170:5146
+CCTV-12高清测试,http://cloud.bytelife.top:4022/udp/239.77.0.136:5146
+CCTV-13新闻,http://cloud.bytelife.top:4022/udp/239.77.0.42:5146
+CCTV-13,http://cloud.bytelife.top:4022/udp/239.77.1.26:5146
+CCTV-13高清,http://cloud.bytelife.top:4022/udp/239.77.0.188:5146
+CCTV-13高清,http://cloud.bytelife.top:4022/udp/239.253.43.196:5146
+CCTV-14少儿,http://cloud.bytelife.top:4022/udp/239.77.0.43:5146
+CCTV-14,http://cloud.bytelife.top:4022/udp/239.77.1.43:5146
+CCTV-14高清,http://cloud.bytelife.top:4022/udp/239.77.1.161:5146
+CCTV-14高清 (CAVS),http://cloud.bytelife.top:4022/udp/239.77.1.171:5146
+CCTV-14高清测试,http://cloud.bytelife.top:4022/udp/239.77.0.133:5146
+CCTV-15音乐,http://cloud.bytelife.top:4022/udp/239.77.0.44:5146
+CCTV-15,http://cloud.bytelife.top:4022/udp/239.77.1.11:5146
+CCTV-15高清,http://cloud.bytelife.top:4022/udp/239.77.1.239:5146
+CCTV-16高清,http://cloud.bytelife.top:4022/udp/239.77.0.165:5146
+CCTV-16高清,http://cloud.bytelife.top:4022/udp/239.77.1.76:5146
+CCTV-16 4K,http://cloud.bytelife.top:4022/udp/239.77.1.98:5146
+CCTV-17农业,http://cloud.bytelife.top:4022/udp/239.77.0.115:5146
+CCTV-17,http://cloud.bytelife.top:4022/udp/239.77.1.123:5146
+CCTV-17高清,http://cloud.bytelife.top:4022/udp/239.77.1.121:5146
+CCTV-17农业高清,http://cloud.bytelife.top:4022/udp/239.77.0.198:5146
+CCTV-4K 4K,http://cloud.bytelife.top:4022/udp/239.77.0.194:5146
+CCTV-4K 4K50p,http://cloud.bytelife.top:4022/udp/239.77.0.174:5146
+CGTN,http://cloud.bytelife.top:4022/udp/239.77.0.45:5146
+CGTN,http://cloud.bytelife.top:4022/udp/239.77.1.27:5146
+CGTN英语高清,http://cloud.bytelife.top:4022/udp/239.77.0.199:5146
+CGTN西班牙语高清,http://cloud.bytelife.top:4022/udp/239.77.0.221:5146
+CGTN法语高清,http://cloud.bytelife.top:4022/udp/239.77.0.228:5146
+CGTN阿拉伯语高清,http://cloud.bytelife.top:4022/udp/239.253.43.200:5146
+CGTN俄语高清,http://cloud.bytelife.top:4022/udp/239.253.43.201:5146
+湖南卫视,http://cloud.bytelife.top:4022/udp/239.77.0.46:5146
+湖南卫视,http://cloud.bytelife.top:4022/udp/239.77.1.29:5146
+湖南卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.5:5146
+湖南卫视高清 (CAVS),http://cloud.bytelife.top:4022/udp/239.77.1.129:5146
+湖南卫视高清,http://cloud.bytelife.top:4022/udp/239.77.0.88:5146
+湖南卫视超清,http://cloud.bytelife.top:4022/udp/239.77.0.127:5146
+浙江卫视,http://cloud.bytelife.top:4022/udp/239.77.0.47:5146
+浙江卫视,http://cloud.bytelife.top:4022/udp/239.77.1.32:5146
+浙江卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.33:5146
+浙江卫视高清 (CAVS),http://cloud.bytelife.top:4022/udp/239.77.1.150:5146
+浙江卫视高清,http://cloud.bytelife.top:4022/udp/239.77.0.89:5146
+浙江卫视超清 (CAVS),http://cloud.bytelife.top:4022/udp/239.77.0.125:5146
+江苏卫视,http://cloud.bytelife.top:4022/udp/239.77.0.48:5146
+江苏卫视,http://cloud.bytelife.top:4022/udp/239.77.1.40:5146
+江苏卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.18:5146
+江苏卫视高清 (CAVS),http://cloud.bytelife.top:4022/udp/239.77.1.149:5146
+江苏卫视高清,http://cloud.bytelife.top:4022/udp/239.77.0.90:5146
+江苏卫视超清 (CAVS),http://cloud.bytelife.top:4022/udp/239.77.0.126:5146
+东方卫视,http://cloud.bytelife.top:4022/udp/239.77.0.49:5146
+东方卫视,http://cloud.bytelife.top:4022/udp/239.77.1.48:5146
+东方卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.218:5146
+东方卫视高清 (CAVS),http://cloud.bytelife.top:4022/udp/239.77.1.156:5146
+东方卫视高清,http://cloud.bytelife.top:4022/udp/239.77.0.98:5146
+安徽卫视,http://cloud.bytelife.top:4022/udp/239.77.0.50:5146
+安徽卫视,http://cloud.bytelife.top:4022/udp/239.77.1.13:5146
+安徽卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.92:5146
+安徽卫视高清 (CAVS),http://cloud.bytelife.top:4022/udp/239.77.1.157:5146
+安徽卫视高清,http://cloud.bytelife.top:4022/udp/239.77.0.183:5146
+北京卫视,http://cloud.bytelife.top:4022/udp/239.77.0.51:5146
+北京卫视,http://cloud.bytelife.top:4022/udp/239.77.1.14:5146
+北京卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.4:5146
+北京卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.151:5146
+北京卫视高清,http://cloud.bytelife.top:4022/udp/239.77.0.91:5146
+天津卫视,http://cloud.bytelife.top:4022/udp/239.77.0.52:5146
+天津卫视,http://cloud.bytelife.top:4022/udp/239.77.1.37:5146
+天津卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.141:5146
+天津卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.182:5146
+天津卫视高清,http://cloud.bytelife.top:4022/udp/239.77.0.97:5146
+天津卫视超清,http://cloud.bytelife.top:4022/udp/239.77.0.131:5146
+山东卫视,http://cloud.bytelife.top:4022/udp/239.77.0.53:5146
+山东卫视,http://cloud.bytelife.top:4022/udp/239.77.1.66:5146
+山东卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.142:5146
+山东卫视高清 (CAVS),http://cloud.bytelife.top:4022/udp/239.77.1.153:5146
+山东卫视高清,http://cloud.bytelife.top:4022/udp/239.77.0.94:5146
+山东卫视超清 (CAVS),http://cloud.bytelife.top:4022/udp/239.77.0.132:5146
+江西卫视,http://cloud.bytelife.top:4022/udp/239.77.0.54:5146
+江西卫视,http://cloud.bytelife.top:4022/udp/239.77.1.73:5146
+江西卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.219:5146
+江西卫视高清,http://cloud.bytelife.top:4022/udp/239.77.0.149:5146
+湖北卫视,http://cloud.bytelife.top:4022/udp/239.77.0.56:5146
+湖北卫视,http://cloud.bytelife.top:4022/udp/239.77.1.44:5146
+湖北卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.93:5146
+湖北卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.174:5146
+湖北卫视高清,http://cloud.bytelife.top:4022/udp/239.77.0.95:5146
+湖北卫视超清,http://cloud.bytelife.top:4022/udp/239.77.0.128:5146
+辽宁卫视,http://cloud.bytelife.top:4022/udp/239.77.0.57:5146
+辽宁卫视,http://cloud.bytelife.top:4022/udp/239.77.1.62:5146
+辽宁卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.103:5146
+辽宁卫视 高清,http://cloud.bytelife.top:4022/udp/239.77.0.123:5146
+辽宁卫视超清 (CAVS),http://cloud.bytelife.top:4022/udp/239.77.0.161:5146
+黑龙江卫视,http://cloud.bytelife.top:4022/udp/239.77.0.58:5146
+黑龙江卫视,http://cloud.bytelife.top:4022/udp/239.77.1.71:5146
+黑龙江卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.6:5146
+黑龙江卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.179:5146
+黑龙江卫视高清,http://cloud.bytelife.top:4022/udp/239.77.0.93:5146
+黑龙江卫视超清,http://cloud.bytelife.top:4022/udp/239.77.0.124:5146
+贵州卫视,http://cloud.bytelife.top:4022/udp/239.77.0.59:5146
+贵州卫视,http://cloud.bytelife.top:4022/udp/239.77.1.61:5146
+贵州卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.221:5146
+贵州卫视高清,http://cloud.bytelife.top:4022/udp/239.77.0.230:5146
+四川卫视,http://cloud.bytelife.top:4022/udp/239.77.0.60:5146
+四川卫视,http://cloud.bytelife.top:4022/udp/239.77.1.30:5146
+四川卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.215:5146
+四川卫视高清,http://cloud.bytelife.top:4022/udp/239.77.0.159:5146
+四川卫视超清 (CAVS),http://cloud.bytelife.top:4022/udp/239.77.0.163:5146
+河南卫视,http://cloud.bytelife.top:4022/udp/239.77.0.61:5146
+河南卫视,http://cloud.bytelife.top:4022/udp/239.77.1.58:5146
+河南卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.229:5146
+河南卫视高清,http://cloud.bytelife.top:4022/udp/239.77.0.17:5146
+云南卫视,http://cloud.bytelife.top:4022/udp/239.77.0.62:5146
+云南卫视,http://cloud.bytelife.top:4022/udp/239.77.1.72:5146
+云南卫视高清,http://cloud.bytelife.top:4022/udp/239.253.43.37:5146
+云南卫视高清,http://cloud.bytelife.top:4022/udp/239.253.43.100:5146
+重庆卫视,http://cloud.bytelife.top:4022/udp/239.77.0.63:5146
+重庆卫视,http://cloud.bytelife.top:4022/udp/239.77.1.16:5146
+重庆卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.162:5146
+重庆卫视高清 (CAVS),http://cloud.bytelife.top:4022/udp/239.77.1.210:5146
+重庆卫视高清,http://cloud.bytelife.top:4022/udp/239.77.0.182:5146
+河北卫视,http://cloud.bytelife.top:4022/udp/239.77.0.64:5146
+河北卫视,http://cloud.bytelife.top:4022/udp/239.77.1.60:5146
+河北卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.214:5146
+河北卫视高清,http://cloud.bytelife.top:4022/udp/239.77.0.148:5146
+东南卫视,http://cloud.bytelife.top:4022/udp/239.77.0.65:5146
+东南卫视,http://cloud.bytelife.top:4022/udp/239.77.1.1:5146
+东南卫视,http://cloud.bytelife.top:4022/udp/239.77.1.213:5146
+东南卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.104:5146
+福建东南卫视高清,http://cloud.bytelife.top:4022/udp/239.77.0.146:5146
+广西卫视,http://cloud.bytelife.top:4022/udp/239.77.0.66:5146
+广西卫视,http://cloud.bytelife.top:4022/udp/239.77.1.59:5146
+广西卫视高清,http://cloud.bytelife.top:4022/udp/239.253.43.36:5146
+广西卫视高清,http://cloud.bytelife.top:4022/udp/239.77.0.139:5146
+吉林卫视,http://cloud.bytelife.top:4022/udp/239.77.0.67:5146
+吉林卫视,http://cloud.bytelife.top:4022/udp/239.77.1.45:5146
+吉林卫视高清,http://cloud.bytelife.top:4022/udp/239.77.1.111:5146
+吉林卫视高清,http://cloud.bytelife.top:4022/udp/239.77.0.150:5146
+陕西卫视,http://cloud.bytelife.top:4022/udp/239.77.0.68:5146
+陕西卫视,http://cloud.bytelife.top:4022/udp/239.77.1.54:5146
+山西卫视,http://cloud.bytelife.top:4022/udp/239.77.0.69:5146
+山西卫视,http://cloud.bytelife.top:4022/udp/239.77.1.74:5146
+内蒙古卫视,http://cloud.bytelife.top:4022/udp/239.77.0.70:5146
+内蒙古卫视,http://cloud.bytelife.top:4022/udp/239.77.1.55:5146
+青海卫视,http://cloud.bytelife.top:4022/udp/239.77.0.71:5146
+青海卫视,http://cloud.bytelife.top:4022/udp/239.77.1.70:5146
+海南卫视,http://cloud.bytelife.top:4022/udp/239.77.0.72:5146
+海南卫视,http://cloud.bytelife.top:4022/udp/239.77.1.51:5146
+海南卫视高清,http://cloud.bytelife.top:4022/udp/239.253.43.35:5146
+海南卫视高清,http://cloud.bytelife.top:4022/udp/239.253.43.101:5146
+宁夏卫视,http://cloud.bytelife.top:4022/udp/239.77.0.73:5146
+宁夏卫视,http://cloud.bytelife.top:4022/udp/239.77.1.47:5146
+西藏卫视,http://cloud.bytelife.top:4022/udp/239.77.0.74:5146
+西藏卫视,http://cloud.bytelife.top:4022/udp/239.77.1.49:5146
+新疆卫视,http://cloud.bytelife.top:4022/udp/239.77.0.75:5146
+新疆卫视,http://cloud.bytelife.top:4022/udp/239.77.1.53:5146
+甘肃卫视,http://cloud.bytelife.top:4022/udp/239.77.0.76:5146
+甘肃卫视,http://cloud.bytelife.top:4022/udp/239.77.1.57:5146
+甘肃卫视高清,http://cloud.bytelife.top:4022/udp/239.77.0.189:5146
+兵团卫视,http://cloud.bytelife.top:4022/udp/239.77.0.77:5146
+兵团卫视,http://cloud.bytelife.top:4022/udp/239.77.1.80:5146
+厦门卫视,http://cloud.bytelife.top:4022/udp/239.77.0.96:5146
+三沙卫视,http://cloud.bytelife.top:4022/udp/239.77.0.152:5146
+三沙卫视,http://cloud.bytelife.top:4022/udp/239.77.1.117:5146
+三沙卫视高清,http://cloud.bytelife.top:4022/udp/239.253.43.113:5146
+吉林延边卫视,http://cloud.bytelife.top:4022/udp/239.77.0.10:5146
+延边卫视,http://cloud.bytelife.top:4022/udp/239.77.1.99:5146
+
+//香港直连
+Astro AEC(測試),https://sc2024.stream-link.org/tv2306.php?id=c01
+Astro QJ(測試),https://sc2024.stream-link.org/tv2306.php?id=c02
+TNT Sports 1(測試),https://sc2024.stream-link.org/tv2306.php?id=c03
+TNT Sports 2(測試),https://sc2024.stream-link.org/tv2306.php?id=c04
+TNT Sports 3(測試),https://sc2024.stream-link.org/tv2306.php?id=c05
+TNT Sports 4(測試),https://sc2024.stream-link.org/tv2306.php?id=c06
+華麗(翡翠台),https://sc2024.stream-link.org/tv2306.php?id=h00
+翡翠台,https://sc2024.stream-link.org/tv2306.php?id=h01
+翡翠台,https://sc2024.stream-link.org/tv2306.php?id=h02
+J2台,https://sc2024.stream-link.org/tv2306.php?id=h03
+無綫新聞台,https://sc2024.stream-link.org/tv2306.php?id=h04
+無綫財經·體育·資訊台,https://sc2024.stream-link.org/tv2306.php?id=h05
+無綫新聞台,https://sc2024.stream-link.org/tv2306.php?id=h06
+無綫財經·體育·資訊台,https://sc2024.stream-link.org/tv2306.php?id=h07
+Now新聞台,https://sc2024.stream-link.org/tv2306.php?id=h08
+Now財經台,https://sc2024.stream-link.org/tv2306.php?id=h25
+ViuTV99,https://sc2024.stream-link.org/tv2306.php?id=h09
+TVB娛樂新聞台,https://sc2024.stream-link.org/tv2306.php?id=h10
+港台电视31,https://sc2024.stream-link.org/tv2306.php?id=h11
+港台电视32,https://sc2024.stream-link.org/tv2306.php?id=h12
+港台电视33,https://sc2024.stream-link.org/tv2306.php?id=h13
+中央新聞台,https://sc2024.stream-link.org/tv2306.php?id=h14
+香港國際財經台,https://sc2024.stream-link.org/tv2306.php?id=h15
+香港開電視,https://sc2024.stream-link.org/tv2306.php?id=h16
+香港開電視資訊台,https://sc2024.stream-link.org/tv2306.php?id=h17
+鳳凰衛視資訊台,https://sc2024.stream-link.org/tv2306.php?id=h18
+鳳凰衛視中文台,https://sc2024.stream-link.org/tv2306.php?id=h19
+澳門蓮花衛視,https://sc2024.stream-link.org/tv2306.php?id=h20
+TVB華語劇台,https://sc2024.stream-link.org/tv2306.php?id=h21
+TVB星河台,https://sc2024.stream-link.org/tv2306.php?id=h22
+TVB千禧經典台,https://sc2024.stream-link.org/tv2306.php?id=h23
+天映頻道,https://sc2024.stream-link.org/tv2306.php?id=h24
+Now精選體育,https://sc2024.stream-link.org/tv2306.php?id=s01
+五星體育,https://sc2024.stream-link.org/tv2306.php?id=s02
+緯來體育,https://sc2024.stream-link.org/tv2306.php?id=s03
+Abu Dhabi Sports 1,https://sc2024.stream-link.org/tv2306.php?id=s05
+Abu Dhabi Sports 2,https://sc2024.stream-link.org/tv2306.php?id=s06
+DAZN F1,https://sc2024.stream-link.org/tv2306.php?id=s07
+DAZN 西甲,https://sc2024.stream-link.org/tv2306.php?id=s08
+MLB,https://sc2024.stream-link.org/tv2306.php?id=s09
+NBA TV,https://sc2024.stream-link.org/tv2306.php?id=s10
+Unbeaten,https://sc2024.stream-link.org/tv2306.php?id=s11
+FIFA+,https://sc2024.stream-link.org/tv2306.php?id=s12
+Tennis Channel,https://sc2024.stream-link.org/tv2306.php?id=s13
+beIN SPORTS XTRA,https://sc2024.stream-link.org/tv2306.php?id=s14
+beIN SPORTS,https://sc2024.stream-link.org/tv2306.php?id=s15
+beIN SPORTS 2,https://sc2024.stream-link.org/tv2306.php?id=s16
+beIN SPORTS 3,https://sc2024.stream-link.org/tv2306.php?id=s17
+beIN SPORTS 4,https://sc2024.stream-link.org/tv2306.php?id=s18
+Astro SUPERSPORT,https://sc2024.stream-link.org/tv2306.php?id=s19
+Astro SUPERSPORT 2,https://sc2024.stream-link.org/tv2306.php?id=s20
+Astro SUPERSPORT 3,https://sc2024.stream-link.org/tv2306.php?id=s21
+Astro SUPERSPORT 4,https://sc2024.stream-link.org/tv2306.php?id=s22
+ANN News,https://sc2024.stream-link.org/tv2306.php?id=e01
+BBC News,https://sc2024.stream-link.org/tv2306.php?id=e02
+Bloomberg,https://sc2024.stream-link.org/tv2306.php?id=e03
+CBN News,https://sc2024.stream-link.org/tv2306.php?id=e04
+CBS News,https://sc2024.stream-link.org/tv2306.php?id=e05
+CNA News,https://sc2024.stream-link.org/tv2306.php?id=e06
+CNN Live,https://sc2024.stream-link.org/tv2306.php?id=e07
+DW News,https://sc2024.stream-link.org/tv2306.php?id=e08
+Fox Live,https://sc2024.stream-link.org/tv2306.php?id=e09
+France 24 English,https://sc2024.stream-link.org/tv2306.php?id=e10
+NBC News,https://sc2024.stream-link.org/tv2306.php?id=e11
+NHK World Japan,https://sc2024.stream-link.org/tv2306.php?id=e12
+SKY News,https://sc2024.stream-link.org/tv2306.php?id=e13
+KBS World,https://sc2024.stream-link.org/tv2306.php?id=e14
+Japan weather news,https://sc2024.stream-link.org/tv2306.php?id=e15
+GEM,https://sc2024.stream-link.org/tv2306.php?id=e16
+KBC,https://sc2024.stream-link.org/tv2306.php?id=e17
+연합뉴스TV_로고(韓聯社新聞),https://sc2024.stream-link.org/tv2306.php?id=e18
+PLAYY 韓國電影台,https://sc2024.stream-link.org/tv2306.php?id=e19
+東森新聞,https://sc2024.stream-link.org/tv2306.php?id=t01
+東森財經新聞,https://sc2024.stream-link.org/tv2306.php?id=t02
+中天新聞,https://sc2024.stream-link.org/tv2306.php?id=t03
+華視,https://sc2024.stream-link.org/tv2306.php?id=t04
+華視新聞,https://sc2024.stream-link.org/tv2306.php?id=t05
+中視新聞,https://sc2024.stream-link.org/tv2306.php?id=t06
+民視新聞,https://sc2024.stream-link.org/tv2306.php?id=t07
+寰宇國際新聞,https://sc2024.stream-link.org/tv2306.php?id=t08
+寰宇台灣新聞,https://sc2024.stream-link.org/tv2306.php?id=t09
+三立財經新聞,https://sc2024.stream-link.org/tv2306.php?id=t10
+三立新聞,https://sc2024.stream-link.org/tv2306.php?id=t11
+三立新聞+,https://sc2024.stream-link.org/tv2306.php?id=t12
+台視新聞,https://sc2024.stream-link.org/tv2306.php?id=t13
+公視新聞,https://sc2024.stream-link.org/tv2306.php?id=t29
+TVBS新聞,https://sc2024.stream-link.org/tv2306.php?id=t14
+TVBS財經,https://sc2024.stream-link.org/tv2306.php?id=t15
+中天亞洲台,https://sc2024.stream-link.org/tv2306.php?id=t17
+TVBS亞洲台,https://sc2024.stream-link.org/tv2306.php?id=t18
+民視HD,https://sc2024.stream-link.org/tv2306.php?id=t19
+民視第一台,https://sc2024.stream-link.org/tv2306.php?id=t20
+民視台灣台,https://sc2024.stream-link.org/tv2306.php?id=t21
+民視綜藝台,https://sc2024.stream-link.org/tv2306.php?id=t22
+民視影劇台,https://sc2024.stream-link.org/tv2306.php?id=t23
+民視旅遊台,https://sc2024.stream-link.org/tv2306.php?id=t24
+天才衝衝衝,https://sc2024.stream-link.org/tv2306.php?id=t27
+龍華電影,https://sc2024.stream-link.org/tv2306.php?id=t30
+龍華日韓,https://sc2024.stream-link.org/tv2306.php?id=t31
+影迷數位電影台,https://sc2024.stream-link.org/tv2306.php?id=t32
+i-Fun動漫台,https://sc2024.stream-link.org/tv2306.php?id=t33
+MTV,https://sc2024.stream-link.org/tv2306.php?id=t34
+History歷史頻道,https://sc2024.stream-link.org/tv2306.php?id=t35
+靖天日本台,https://sc2024.stream-link.org/tv2306.php?id=t36
+靖天電影台,https://sc2024.stream-link.org/tv2306.php?id=t37
+ELTA娛樂台,https://sc2024.stream-link.org/tv2306.php?id=t38
+Love Nature,https://sc2024.stream-link.org/tv2306.php?id=t39
+
 
 ❤️凤凰卫视,#genre#
 暴走君,http://tx-screenshots.flv.huya.com/src/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.flv?
