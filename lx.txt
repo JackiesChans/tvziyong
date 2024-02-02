@@ -1,12 +1,12 @@
 {"storeHouse": [
 {"sourceName":"自用集合仓","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/JackiesChans/tvziyong/main/x1.json"},  
 {"sourceName":"自用（备选线仓）","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/JackiesChans/tvziyong/main/x2.json"}, 
+{"sourceName":"天微多仓","sourceUrl":"http://tvkj.top/DC.txt"}, 
 {"sourceName": "①号仓库(非影视)","sourceUrl": "https://agit.ai/376242575/zzh/raw/branch/master/单仓.txt"},
 {"sourceName":"主仓库B","sourceUrl":"http://tv.nxog.top/nxog/ou1.php?url=https://tv.nxog.repl.co&b="},
 {"sourceName":"☁可视内置仓","sourceUrl":"https://agit.ai/hu/hcr/raw/branch/master/99668.txt"},
 {"sourceName": "666666","sourceUrl": "https://agit.ai/66666/mao/raw/branch/master/00/xx/0.jpg"},
 {"sourceName":"💚欧歌①号仓","sourceUrl":"http://tv.nxog.top/dc/多多/1.php?b=欧歌"}, 
-{"sourceName":"天微多仓","sourceUrl":"http://tvkj.top/DC.txt"}, 
 {"sourceName":"PY体验仓","sourceUrl":"https://download.kstore.space/download/2883/PY/py%E4%BD%93%E9%AA%8C%E5%BA%93.txt"}
  ]
 }
