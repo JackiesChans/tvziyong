@@ -6,6 +6,7 @@
 {"sourceName":"☁可视内置仓","sourceUrl":"https://agit.ai/hu/hcr/raw/branch/master/99668.txt"},
 {"sourceName": "666666","sourceUrl": "https://agit.ai/66666/mao/raw/branch/master/00/xx/0.jpg"},
 {"sourceName":"💚欧歌①号仓","sourceUrl":"http://tv.nxog.top/dc/多多/1.php?b=欧歌"}, 
+{"sourceName":"天微多仓","sourceUrl":"http://tvkj.top/DC.txt"}, 
 {"sourceName":"PY体验仓","sourceUrl":"https://download.kstore.space/download/2883/PY/py%E4%BD%93%E9%AA%8C%E5%BA%93.txt"}
  ]
 }
