@@ -1,25 +1,16 @@
  {
     "urls": [    
         {
-            "url": "https://肥猫.com/",
-            "name": "肥猫"
-        },
-        {
             "url": "http://www.xn--sss604efuw.com/",
             "name": "饭太硬"
         }, 
        {
             "url": "https://7337.kstore.space/twvip/自用测试.json",
-            "name": "🚀天微影视VIP线（20250123）🚀"
+            "name": "🚀天微影视VIP线（20250428）🚀"
         }, 
        {
-            "url": "https://11256.kstore.space/%E5%85%8D%E8%B4%B9%E5%8B%BF%E4%BC%A0.json",
-            "name": "七星影仓（20250123）🚀"
-        }, 
-
-        {
-            "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
-            "name": "七星影仓（20250123）🚀"
+            "url": "https://11256.kstore.space/免费勿传.json",
+            "name": "七星影仓（20250428）🚀"
         }, 
         {
             "url": "https://11256.kstore.space/%E5%85%8D%E8%B4%B9%E5%8B%BF%E4%BC%A0.json",
@@ -31,19 +22,19 @@
         }, 
         {
             "url": "https://la.kstore.dev/download/2863/01.txt",
-            "name": "潇洒"
+            "name": "潇洒（20250428）"
         }, 
         {
             "url": "http://tvbox.王二小放牛娃.top",
-            "name": "放牛娃"
+            "name": "放牛娃（20250428）"
         }, 
         {
             "url": "https://4708.kstore.space/omg/zy.json",
             "name": "拾光"
         }, 
         {
-            "url": "http://www.mpanso.com/小米/DEMO.json",
-            "name": "小米"
+            "url": "https://mi.mpanso.me/DEMO.json",
+            "name": "小米（20250428）"
         }, 
         {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
@@ -92,7 +83,49 @@
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "俊哥"
-        },         
+        },   
+
+        {
+            "url": "http://www.fish2018.us.kg/p/jsm.json",
+            "name": "PG"
+        },  
+             {
+            "url": "http://tv.laohu.cool/tvbox.json",
+            "name": "老虎"
+        },  
+             {
+            "url": "https://szyyds.cn/tv/x.json",
+            "name": "小马"
+        },  
+             {
+            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+            "name": "ONE单线"
+        },  
+             {
+            "url": "https://6492.kstore.space/xnf/xnf.json",
+            "name": "环宇轩"
+        },  
+             {
+            "url": "https://hb.xyyh.online/tvbox/",
+            "name": "小虎斑"
+        },  
+             {
+            "url": "https://d.kstore.space/download/2883/0110.txt",
+            "name": "蚂蚁"
+        },  
+             {
+            "url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json",
+            "name": "心魔"
+        },  
+
+
+
+
+
+
+
+
+     
         {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
             "name": "巧技二"
