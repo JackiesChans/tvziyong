@@ -1,6 +1,6 @@
 {"storeHouse": [
 {"sourceName":"自用集合仓","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/JackiesChans/tvziyong/main/x1.json"},  
-{"sourceName":"天微多仓（0815）","sourceUrl":"https://qixing.myhkw.com/自用测试勿传DC.txt"}, 
+{"sourceName":"天微多仓（0815）","sourceUrl":"https://qixing.myhkw.com/DC.txt"}, 
 {"sourceName":"主仓库B","sourceUrl":"http://tv.nxog.top/nxog/ou1.php?url=https://tv.nxog.repl.co&b="},
 {"sourceName": "666666","sourceUrl": "https://agit.ai/66666/mao/raw/branch/master/00/xx/0.jpg"},
 {"sourceName":"💚欧歌①号仓","sourceUrl":"http://tv.nxog.top/dc/多多/1.php?b=欧歌"}
