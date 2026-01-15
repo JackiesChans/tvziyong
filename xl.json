@@ -1,14 +1,12 @@
 //  ✍🏻这个标识是背景图
-{"wallpaper":
-"https://789.st/zLP7cyj",
+{"wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
 
 //  ✍🏻这个标识是头像
 "logo":
 "https://789.st/GlhcG1r",
 
 //  ✍🏻这个标识是jar
-"spider": 
-"http://oss4liview.moji.com/thd_file/2026/01/06/a9b8ceba13d9d31e9f2168201de5cac0.jpg;md5;a8eab488783d42277917bd3cdee785f5",
+"spider": "http://oss4liview.moji.com/thd_file/2025/12/31/304721934f09bb6602c3f0a6cd154607.jpg;md5;e8f825112622dc0da002217b29e03bed",  // OK杰克
 
 //  ✍🏻这个标识是直播
 "lives": [
@@ -29,8 +27,17 @@
 
 //  ✍🏻这个标识是资源
 "sites":[
-      {"key":"裤佬豆瓣片单","name":"✈️TG频道@stymei","type":3,"api":"csp_Douban","jar":"https://mpimg.cn/down.php/34dc804020748504a15e2767b37656c3.jar","searchable": 1,"quickSearch":0,"filterable": 1,"ext":"https://upld.zone.id/uploads/q9iq9e5iq/3.txt"
-},
+     {
+      "key": "drpy_js_豆瓣",
+      "name": "PX影视 4K免扫 20260101更新",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable":0,
+      "quickSearch":0,
+      "changeable":0,
+      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar",
+      "ext": "http://103.45.162.207:25252/仅供测试/lib/douban.json"
+    }, 
     {
       "key": "设置",
       "name": "网弹|设置",
@@ -230,30 +237,6 @@
          "baidu_cookie": "http://14.103.129.80:999/%E6%9A%97%E9%BB%914k%E5%A5%87%E8%BF%B9/lib/bd.txt"
              }   
     },
-{
-"key":"裤佬电视直播",
-"name":"👖裤佬丨电视丨直播",
-"type":3,
-"searchable":0,
-"changeable":0,
-"api":"https://upld.zone.id/uploads/q9iq9e5iq/zbzdb.js",
-"ext":"https://upld.zone.id/uploads/q9iq9e5iq/zbzdb.json"
-},
-        {
-      "key": "裤佬央卫视直播",
-      "name": "👖裤佬丨央卫视丨直播",
-      "api": "csp_WvSpider",
-      "type": "3",
-      "jar": "https://mpimg.cn/down.php/c7f900ca93e57df8f44ad8a33be8fa9c.jar",
-      "ext": "https://mpimg.cn/down.php/8302a59aefc8ab325f4069baed36a77b.js"
-       },
-       {
-"key":"裤佬电台直播",
-"name":"👖裤佬丨电台丨直播",
-"type":3,
-"api":"http://rihou.cc:88/js/drpy2.min.js",
-"ext":"http://rihou.cc:88/js/蜻蜓FM.js"
-        },
         {
             "key": "裤佬移动云盘",
             "name": "👖裤佬丨免扫码丨网盘",
@@ -643,206 +626,5 @@
             "quickSearch": 1,
             "filterable": 1,
             "playerType": 2
-        },
-        {
-            "key": "裤佬相声",
-            "name": "👖裤佬丨相声丨长辈",
-            "type": 4,
-            "api": "https://catbox.n13.club/t9/bili.php?id=Blixs"
-        },
-        {
-            "key": "裤佬广场舞",
-            "name": "👖裤佬丨广场舞丨长辈",
-            "type": 4,
-            "api": "https://catbox.n13.club/t9/tangdou.php"
-        },
-        {
-            "key": "裤佬宝宝教育",
-            "name": "👖裤佬丨宝宝丨教育",
-            "type": 4,
-            "api": "https://catbox.n13.club/t9/bili.php?id=少儿教育"
-        },
-  "ext": {
-                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/57EAD2E_773_bili_20251204145747516newMediaFile.bmp"
-            },
-            "timeout": 20
-            },
-            {
-            "key": "裤佬采集聚合",
-            "name": "👖裤佬丨采集丨聚合",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
-            "searchable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "ext":"1",
-            "changeable": 1
-            },
-            {
-            "key": "裤佬JS聚合",
-            "name": "👖裤佬丨JS丨聚合",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/js.php",
-            "searchable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-            },
-            {
-            "key": "裤佬PY聚合",
-            "name": "👖裤佬丨PY丨聚合",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/py.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-             "style": {
-                "type": "rect",
-                "ratio": 1.33
-            }
-           },
-          {
-            "key": "裤佬php聚合",
-            "name": "👖裤佬丨PHP丨聚合",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/php.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-},
-{
-      "key": "dyttcj",
-      "name": "👖裤佬丨天堂丨采集",
-      "type": 1,
-      "api": "http://dyttzyw.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "科幻片",
-        "爱情片",
-        "战争片",
-        "动画片",
-        "喜剧片",
-        "恐怖片",
-        "剧情片",
-        "纪录片",
-        "伦理片",
-        "国产剧",
-        "香港剧",
-        "台湾剧",
-        "海外剧",
-        "短剧",
-        "欧美剧",
-        "韩国剧",
-        "日本剧",
-        "泰国剧",
-        "国产动漫",
-        "欧美动漫",
-        "海外动漫",
-        "日韩动漫",
-        "港台动漫",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺"
-      ]
-},
-{
-      "key": "bfzycj",
-      "name": "👖裤佬丨暴风丨采集",
-      "type": 1,
-      "api": "http://by.bfzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "理论片",
-        "纪录片",
-        "战争片",
-        "剧情片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "喜剧片",
-        "动作片",
-        "动画片",
-        "预告片",
-        "重生民国",
-        "穿越年代",
-        "现代言情",
-        "反转爽文",
-        "女恋总裁",
-        "闪婚离婚",
-        "都市脑洞",
-        "古装仙侠",
-        "足球",
-        "篮球",
-        "网球",
-        "斯诺克",
-        "电影解说",
-        "欧美综艺",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "国产动漫",
-        "海外剧",
-        "泰国剧",
-        "香港剧",
-        "韩国剧",
-        "台湾剧",
-        "日本剧",
-        "欧美剧",
-        "国产剧"
-      ]
-},
-{
-      "key": "jszycj",
-      "name": "👖裤佬丨极速丨采集",
-      "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "日剧",
-        "马泰剧",
-        "内地剧",
-        "欧美剧",
-        "香港剧",
-        "韩剧",
-        "台湾剧",
-        "恐怖片",
-        "动画片",
-        "剧情片",
-        "战争片",
-        "动作片",
-        "爱情片",
-        "喜剧片",
-        "科幻片",
-        "纪录片",
-        "灾难片",
-        "悬疑片",
-        "犯罪片",
-        "奇幻片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺",
-        "短剧",
-        "伦理片",
-        "体育赛事",
-        "预告片"
-      ]}]}
+        }
+        ]}
