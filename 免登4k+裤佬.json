@@ -235,6 +235,98 @@
          "baidu_cookie": "http://14.103.129.80:999/%E6%9A%97%E9%BB%914k%E5%A5%87%E8%BF%B9/lib/bd.txt"
              }   
     },
+     {
+            "key": "西瓜",
+            "name": "🥤西瓜汁┃奇奇（免登4K）",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "sp": "QiQi"
+            },
+            "timeout": 10
+        },
+        {
+            "key": "csp_woog2",
+            "name": "🥤西瓜汁┃装歌（免登4K）",
+            "type": 3,
+            "changeable": "0",
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0307/11/0f8ea2f30bb7607d0e4603fe999b64f6.jpg;md5;fb2c84ce1e3d69aa669be42e7fd3539b",
+            "ext": {
+                "site_urls": [
+                    "https://ogkk.nxog.fun",
+                    "https://ogkk.nxog.eu.org",
+                    "https://ogkk.430520.xyz",
+                    "https://ogkk.歌.de5.net",
+                    "https://woog.430520.xyz"
+                ],
+                "url_key": "woog2",
+                "threadinfo": {
+                    "chunksize": 442,
+                    "threads": 16
+                }
+            }
+        },
+        {
+            "key": "csp_wogg1",
+            "name": "🥤西瓜汁┃玩歌（免登4K）",
+            "type": 3,
+            "changeable": "0",
+            "api": "csp_Duopan",
+            "filterable": 1,
+            "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0307/11/99a8688790a84bc34e00f00082776fd7.jpg;md5;95d710fd96c41285f275b40ee4272a75",
+            "ext": {
+                "site_urls": [
+                    "https://woog.nxog.fun",
+                    "https://woog.nxog.eu.org",
+                    "https://woog.430520.xyz",
+                    "https://woog.歌.de5.net",
+                    "https://ogkk.nxog.fun"
+                ],
+                "url_key": "wogg1",
+                "threadinfo": {
+                    "chunksize": 495,
+                    "threads": 16
+                }
+            }
+        },
+        {
+            "key": "公众号",
+            "name": "🥤西瓜汁┃移动云盘（免登4K）",
+            "type": 3,
+            "jar": "https://gitee.com/tianwikeji/jar/raw/master/YD.jar",
+            "api": "csp_YDjisu",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "人人影视",
+            "name": "🥤西瓜汁┃人人（部分免登4K）",
+            "type": 3,
+            "api": "https://gitee.com/cpu-iy/lib/raw/master/lib/人人影视.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "6V影视",
+            "name": "🎬西瓜汁┃6V影视🎬",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "sp": "Xb6v"
+            },
+            "timeout": 20
+        },
     {
       "key": "libo",
       "name": "Pan - 3 | 免扫4K",
