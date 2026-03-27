@@ -1,5 +1,6 @@
 {"storeHouse": [
 {"sourceName":"自用集合仓","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/JackiesChans/tvziyong/main/x1.json"},  
-{"sourceName":"天微多仓（20251104）","sourceUrl":"http://qxyc.cc/自用测试"}
+{"sourceName":"天微多仓（20251104）","sourceUrl":"http://qxyc.cc/自用测试"},  
+{"sourceName":"裤佬多仓（20260327）","sourceUrl":"https://pastebin.com/raw/enF00p5e"}
  ]
 }
