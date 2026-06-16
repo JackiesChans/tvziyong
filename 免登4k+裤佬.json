@@ -51,16 +51,16 @@
 //  ✍🏻这个标识是资源
 "sites":[
      {
-      "key": "drpy_js_豆瓣",
-      "name": "自用资源 20260115更新",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable":0,
-      "quickSearch":0,
-      "changeable":0,
-      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar",
-      "ext": "http://103.45.162.207:25252/仅供测试/lib/douban.json"
-    }, 
+            "key": "裤佬豆瓣片单",
+            "name": "✈️20260617更新",
+            "type": 3,
+            "api": "csp_Douban",
+            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/stymei/paomadeng.jar",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/stymei/paomadeng.txt"
+        },
     {
       "key": "设置",
       "name": "网弹|设置",
