@@ -10,17 +10,42 @@
 
 //  ✍🏻这个标识是直播
 "lives": [
-{ "name": "👖裤佬TV直播","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"},
-
-{"name": "👖日后TV直播","type": 0,"url":"http://rihou.cc:555/gggg.nzk","playerType": 2,"ua": "okhttp/3","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
-
-{"name": "👖潇雨萌萌TV直播","type":0,"url": "https://ds65.tv1288.xyz","playerType":1},
-
-{ "name": "👖风云TV直播","type": 1,"url": "http://iptv.4666888.xyz/FYTV.txt"},
-
-{"name": "👖宫殿TV直播","type": 0,"url":"https://gongdian.top/tv/iptv","playerType": 1,"logo": "https://gongdian.top/tv/taibiao/{name}.png"},
-
-{ "name": "👖易发TV直播","type": 1,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"}],
+{
+            "name": "👖裤佬TV直播",
+            "type": 1,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"
+        },
+        {
+            "name": "👖日后TV直播",
+            "type": 0,
+            "url": "http://rihou.cc:555/gggg.nzk",
+            "playerType": 2,
+            "ua": "okhttp/3",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+        },
+        {
+            "name": "👖涛涛TV直播",
+            "type": 1,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/log.png"
+        },
+        {
+            "name": "👖易发TV直播",
+            "type": 1,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
+        },
+        {
+            "name": "👖咪咕TV直播",
+            "type": 0,
+            "url": "https://proxy.api.030101.xyz/develop202.github.io/migu_video/interface.txt"
+        },
+        {
+            "name": "👖宫殿TV直播",
+            "type": 0,
+            "url": "https://gongdian.top/tv/iptv",
+            "playerType": 1,
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png"
+        }],
 
 
 //  ✍🏻这个标识是资源
@@ -341,154 +366,155 @@
             },
             "timeout": 25
             },
-            {
-            "key": "裤佬6V影视",
-            "name": "👖裤佬丨6V丨影视",
+   {
+            "key": "裤佬独家免扫4K",
+            "name": "👖裤佬丨独家丨免扫4K",
             "type": 3,
-            "api": "csp_AweSomeGuard",
+            "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0416/20/1fe667cd217a0c314b8ca59310dbf45d.jpg;md5;a4f403a000bc5e4ebdd9da27fcb05852",
+            "api": "csp_AppV6",
+            "playerType": 2,
+            "ext": "7lj763gg0939790h44298182lk5j9k99k2g4ih53jl9i376l514k16hilj0443400h9k4jgh8312j1912818glikl7lh1jk9k4222k1kg696igkk32ig6lhj3kl50j08lkl6j0h6gi7k2j31jj0k7i1784l25g757hhkl42i7jg68illihj867l82g53532j62i92kljhj5llh498k24796l57j55ji0ji2g22i501jl541j9j4i68i5j602744l10413k457hl80l91j5l44139j23g64h27k08l5509h202gl84338hi17082hkj5746g298j640i002jk1265h745j289303h6i6j6j15jgkg15485h8g935hk83g9g7j661l4i557jl56h6l0h40i5j9hkiig7066523l2h24gj9k1083g6l2gihh2j5hhgkgij04j8900jhg4l6731hkhij7kk2i594536563674gki85li59jhk79067964197h5k7k2641h03l45074jkkklhik123407146l1i0jk90k1hgl151076ig7i4gi0858h62j37lh8l4hl519ghi7g04h2h900jlj7ll333i736549624gjk8k508g9499gj3jj7050jjhgh4i57326j83301i0kkl88040ih52gj8j0gk0h4g5g7lh561k2gk6k7k56h01598ji23g27k3i17878j92k2gj1l5ih8h0jj73k94g9hl5g7h229i10g099k09l958h3hk18l72h1j43gg7177g4h7ll8987644383606klgh9h4ll42h7293k694kl20j539g6jl17ig655461138jgj7306i1296k3i03586k6l32j5hlik4051187741218271j8j4g3i1h6719877l10k1ijl220i8hlil3j3g129ll3k2i5164lkg12k253kk1h8j5l0gki49jg25hlii704l5ih74439hlj9jih5ki53242ijgh6359i8i5j4h2j2i4581l244j4ij728490hk0k34542916i2lig57836gg7kji3l160234i24hik5g18h790488748j680k5i0l885lj66kjk78j2i57i5021g283ik9g38g62259h1lgi811ihki506k5934g7h737hg9360lll98l4j8i049903l1354lg00019g0934h005h8jjkl60j91k7j74i96h8h26hk59i653209lgj07g1g298k48jllgh00l4i742gi72l27038157gji9j32gh0k5672167k2588h31967l3867g50k503ik403781ki72j47hh4363l0708k4g961k4hl8g4j35ilk143h3424010i165lj612h50k68l61ghl9h80kh874k14ggk2ilg018hi5l1g34262196lkl45ih981jkl42271l4232k93hk8ih3g814i6h63h0g64l300i42il1g0454921j12h4844ii714ih71lg172326009812833h62kj8009kijk5hhg763031235l45h78614l7h9k579h6lj290i98851gll70024834hgj2lg5hk3l905i346gij11kl5j9i7h5j5k12hl061l488k061564g398i2150h9j343901865h7567g874i1gghl5ihg8il8hh0650h6308l2i5053997g8g12g16l3l7h5lhlji71i1i23h0ljl1h14688h7g13987h548h33k34hi6h2i63h424jhl1kik26kl3h60662846j6j0749l8kh95018kl1971j5j5gjk9hg70542391j77hjj65l127627h6h8h0hi003i2hih6h0k9k878lj858k30iljgik0l9248jk25l4h701l6gllhkhi54g24g926jgj884266514056805k2h15hh442i3170ilik20h88i561k0682k04459i154i03ikglg6220i4jii1g32067il925g450k0i1241l3il2jjl6k186gjj53h611il59k650i4kjhi87i798hg6h01g306ig104145ig9h68i092ghhh59jig99j12383792452h44206glk62g67gj204hk874l5li8646g65i9085244i092g70ig9h8657kg0413466ii87k9i32hglh24hi2li7174735i520ik608ilg71292838j5k1h39271ghg5288g930lg6h75626l71h8h5g011k9l9lgk691i04166h7996g452kij4l4l72881k6kl5701jl707hi415j8h3k67576966g2k94k03k0lj31995h2j26hi69jhjji162625l50j7790093hli0jjkh1ll804i3lhh40lk4k240kh48k0k16l544hg033k594gh0l93682l86h35i1i36klhgjg90lkl54746i2k63481h37hilj3ikig52h0j80k5gj6h879lk6g8ll6k616966h59h42l24h824ljj77g6l03kg260i80h2g2k123251j22jg36k5j14781i6197929il9j03k16h4l1i78693g45k64j0jl0k58hj8493h76gj2202470ig12lh2llj2l5k5541k4h506i3hij81lg9i037jgk22i2l3j12j6l394h51ii2ll0022j292h8036767i835k47071jl9illl2gli06524g66984902j6j1h5g788019hl4712032977h41l0k36073ig880g2jgklh26k736180591639h4k2gjk9gl2071h685923kl5363l5lj0ll91901g12kk29hll4280h9h51870j721516j6g66i379g203932726h42g927h19733k237492l8j0jh148gl95048l5524j4j0l2445130153i802169102i14g586h8g64j2lk28492169li3292877837108k7i9557h3jk31il2lklg494lgl4j91jig614216ki68i2j140l1jg03lk16lljg039h21kj313h8jk79h99j2g89j327i7h9052h9hj71721jg927340956k6jl4i7k0430"
+        },
+        {
+            "key": "裤佬网盘免扫4K",
+            "name": "👖裤佬丨网盘丨免扫4K",
+            "type": 3,
+            "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260604/DUGG/fish06042311.php;md5;9f6c103215d808201d7d7a04810c5435",
+            "api": "csp_PanTaFishGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "裤佬AList免扫4K",
+            "name": "👖裤佬丨Alist丨免扫4K",
+            "type": 3,
+            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/stymei/alist.jar",
+            "api": "csp_AList",
+            "searchable": 1,
+            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/stymei/alist.json"
+        },
+                    {
+            "key": "裤佬聚合备用",
+            "name": "👖裤佬丨聚合丨备用",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/%E7%BD%91%E7%BB%9C%E7%9B%B4%E6%92%AD.py"
+        },
+        {
+            "name": "👖裤佬丨瓜子丨影视",
+            "key": "裤佬瓜子影视",
+            "type": 3,
+            "jar": "https://zl.wpscdn.cn/2026/06/13/space_img/20ef3fa9-852a-4553-81d8-ff70e0d8f118.png;md5;9e6fbebbfc57c5708cd1565b4e995f3d",
+            "api": "csp_GuaziAmns",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "sp": "Xb6v"
-            },
-            "timeout": 20
-            },
-            {
+                "sites": "",
+                "filters": "https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"
+            }
+        },
+        {
+            "key": "裤佬葫芦影视",
+            "name": "👖裤佬丨葫芦丨影视",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
+            "ext": {
+                "host": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/maccos_config.txt",
+                "key": "8R33VQSxzmCaHpEX",
+                "init": "V122",
+                "api": 2,
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
             "key": "裤佬雄鹰影视",
             "name": "👖裤佬丨雄鹰丨影视",
             "type": 3,
-            "api": "csp_AweSomeGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
             "ext": {
-                "sp": "XiongYing",
-                "danmu": true
+                "host": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/xly.txt",
+                "key": "ca94b06ca359d80e",
+                "init": "V120",
+                "api": 2,
+                "ua": "okhttp/3.10.0"
             },
-            "timeout": 10
-           },
-           {
-            "key": "裤佬比特影视",
-            "name": "👖裤佬丨比特丨影视",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "sp": "Btt",
-                "danmu": true
-            },
-            "timeout": 10
-           },
-           {
-            "key": "裤佬瓜子影视",
-            "name": "👖裤佬丨瓜子丨影视",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "sp": "Guazi",
-                "danmu": true
-            },
-            "timeout": 10
-         },
-        {
-            "api": "https://catbox.n13.club/ai/瓜子影视.php",
-            "key": "裤佬瓜子备用",
-            "name": "👖裤佬丨瓜子丨备用",
-            "type": 4
-           },
-          {
-            "key": "裤佬糯米影视",
-            "name": "👖裤佬丨糯米丨影视",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "sp": "Nmys",
-                "danmu": true
-            },
-            "timeout": 10
+            "categories": [
+                "动漫",
+                "电视剧",
+                "电影",
+                "综艺",
+                "短剧",
+                "少儿",
+                "纪录片"
+            ]
         },
         {
-            "key": "裤佬天天影视",
-            "name": "👖裤佬丨天天丨影视",
+            "key": "裤佬人人影视",
+            "name": "👖裤佬丨人人丨影视",
             "type": 3,
-            "api": "csp_AweSomeGuard",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
             "filterable": 1,
-            "ext": {
-                "sp": "TianTian",
-                "danmu": true,
-                "site": 0
-            },
-            "timeout": 10
+            "order_num": 0,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/分享双人.js"
         },
         {
-            "key": "裤佬厂长影视",
-            "name": "👖裤佬丨厂长丨影视",
+            "key": "裤佬飞牛影视",
+            "name": "👖裤佬丨飞牛丨影视",
             "type": 3,
-            "api": "csp_AweSomeGuard",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0,
             "filterable": 1,
-            "ext": {
-                "sp": "Czzy",
-                "danmu": true
-            },
-            "timeout": 10
-            },
-            {
-            "key": "裤佬佩琪影视",
-            "name": "👖裤佬丨佩琪丨影视",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": {
-                "sp": "XiaoZhu",
-                "danmu": true
-            },
-            "timeout": 10
+            "order_num": 0,
+            "ext": "https://d.kstore.dev/download/4127/js/飞牛影视.js"
         },
-           {
-            "key": "裤佬韩圈影视",
-            "name": "👖裤佬丨韩圈丨影视",
+        {
+            "key": "裤佬冠建影视",
+            "name": "👖裤佬丨冠建丨影视",
             "type": 3,
-            "api": "csp_AweSomeGuard",
-            "playerType": 2,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
             "filterable": 1,
-            "ext": {
-                "sp": "HanXiaoQuan",
-                "danmu": true
-            },
-            "timeout": 10
-            },
-            {
-"key":"裤佬泥巴影视",
-"name":"👖裤佬丨泥巴丨影视",
-"type":3,
-"api":"http://rihou.cc:88/js/drpy2.min.js",
-"ext":"http://rihou.cc:88/js/泥泥视频.js"
-            },
-            {
+            "order_num": 0,
+            "ext": "https://d.kstore.dev/download/4127/js/冠建.js"
+        },
+        {
+            "key": "裤佬枫叶影视",
+            "name": "👖裤佬丨枫叶丨影视",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"
+        },
+        {
+            "key": "裤佬看剧影视",
+            "name": "👖裤佬丨看剧丨影视",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py",
+            "ext": "http://43.248.117.123:4680"
+        },
+        {
+            "key": "裤佬华数影视",
+            "name": "👖裤佬丨华数丨影视",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/%E5%8D%8E%E6%95%B0.py",
+            "changeable": 1
+        },
+        {
+            "key": "裤佬星辰影视",
+            "name": "👖裤佬丨星辰丨影视",
+            "type": 3,
+            "api": "http://rihou.cc:88/js/星辰影院.js"
+        },
+        {
+            "key": "裤佬泥巴影视",
+            "name": "👖裤佬丨泥巴丨影视",
+            "type": 3,
+            "api": "http://rihou.cc:88/js/drpy2.min.js",
+            "ext": "http://rihou.cc:88/js/泥泥视频.js"
+        },
+        {
             "key": "裤佬MG影视",
             "name": "👖裤佬丨MG丨影视",
             "type": 3,
@@ -497,89 +523,23 @@
             "ext": "https://tvbox.catvod.com/js/mgtv.js"
         },
         {
-            "api": "https://newtv.ggff.net/jubaba?token=fhJadO1R",
-            "key": "裤佬剧吧影视",
-            "name": "👖裤佬丨剧吧丨影视",
-            "type": 4
-           },
+            "key": "裤佬爬虫影视",
+            "name": "👖裤佬丨爬虫丨影视",
+            "type": 1,
+            "api": "https://dy.7772888.xyz/api.php/tvbox",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
-            "key": "裤佬飞流影视",
-            "name": "👖裤佬丨飞流丨影视",
-            "type": 4,
-            "api": "https://catbox.n13.club/ai/飞流影视.php"
-         },
-        {
-            "key": "裤佬哇哇影视",
-            "name": "👖裤佬丨哇哇丨影视",
-            "type": 4,
-            "api": "https://catbox.n13.club/t9/哇哇影视.php"
-         },
-        {
-            "key": "裤佬恋鱼影视",
-            "name": "👖裤佬丨恋鱼丨影视",
-            "type": 4,
-            "api": "https://catbox.n13.club/t9/lianyu.php"
-         },
-        {
-            "key": "裤佬爱瓜影视",
-            "name": "👖裤佬丨爱瓜丨影视",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/aigua1.php"
-         },
-           {
-      "key": "裤佬艾旦影视",
-      "name": "👖裤佬丨艾旦丨影视",
-      "type": 1,
-      "api": "https://lovedan.net/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-            },
-           {
-      "key": "裤佬iQiYi影视",
-      "name": "👖裤佬丨iQiYi丨影视",
-      "type": 1,
-      "api": "https://lovedan.net/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-            },
-           {
-      "key": "裤佬爬虫影视",
-      "name": "👖裤佬丨爬虫丨影视",
-      "type": 1,
-      "api": "https://dy.7772888.xyz/api.php/tvbox",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-            },
-            {
             "key": "裤佬网易影视",
             "name": "👖裤佬丨网易丨影视",
             "type": 3,
             "api": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js",
             "changeable": 0,
             "ext": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/js/网易公版影像.js"
-            },
-           {
-            "key": "裤佬哔哩影视",
-            "name": "👖裤佬丨哔哩丨影视",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": {
-                "sp": "Bilimd"
-            },
-            "timeout": 10
-             },
-            {
+        },
+        {
             "key": "裤佬独播JS",
             "name": "👖裤佬丨独播丨JS",
             "type": 3,
@@ -587,16 +547,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-            },
-             {
+        },
+        {
             "key": "裤佬酷六JS",
             "name": "👖裤佬丨酷六丨JS",
             "type": 3,
             "api": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js",
             "changeable": 0,
             "ext": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/js/酷6网.js"
-             },
-            {
+        },
+        {
             "key": "裤佬EmbyJS",
             "name": "👖裤佬丨Emby丨JS",
             "type": 3,
@@ -604,8 +564,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-            },
-            {
+        },
+        {
             "key": "裤佬荐片JS",
             "name": "👖裤佬丨荐片丨JS",
             "type": 3,
@@ -615,8 +575,8 @@
                 "ratio": 1.33
             },
             "changeable": 1
-            },
-            {
+        },
+        {
             "key": "裤佬短剧JS",
             "name": "👖裤佬丨短剧丨JS",
             "type": 3,
@@ -626,19 +586,8 @@
                 "ratio": 1.33
             },
             "changeable": 1
-            },
-            {
-            "key": "裤佬海龟JS",
-            "name": "👖裤佬丨海龟丨JS",
-            "type": 3,
-            "api": "https://mpimg.cn/down.php/f6690a283956c245aee15ef24411afde.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-            },
-            {
+        },
+        {
             "key": "裤佬永乐JS",
             "name": "👖裤佬丨永乐丨JS",
             "type": 3,
@@ -648,296 +597,380 @@
                 "ratio": 1.33
             },
             "changeable": 1
-},
-{
-"key":"裤佬两个BT",
-"name":"👖裤佬丨2BT丨PY",
-"api":"https://mpimg.cn/down.php/447cf39f4cb26681ecacfd7f29cd0029.py",
-"filterable":1,
-"quickSearch":1,
-"searchable":1,
-"type":3
-},
-{
-"key":"裤佬界影PY",
-"name":"👖裤佬丨界影丨PY",
-"api":"https://mpimg.cn/down.php/4440a9a56b6d222647a856452eefb21a.py",
-"filterable":1,
-"quickSearch":1,
-"searchable":1,
-"type":3
-},
-{
-"key":"裤佬猎手PY",
-"name":"👖裤佬丨猎手丨PY",
-"api":"https://mpimg.cn/down.php/60fab5ff33f0b0fd88f099ae3be708bf.py",
-"filterable":1,
-"quickSearch":1,
-"searchable":1,
-"type":3
-},
-{
-"key":"裤佬芒果PY",
-"name":"👖裤佬丨芒果丨PY",
-"api":"https://mpimg.cn/down.php/643d3f9a0b601f25d3e372eeb66e82a5.py",
-"filterable":1,
-"quickSearch":1,
-"searchable":1,
-"type":3
-},
-{
-"key":"裤佬兄弟PY",
-"name":"👖裤佬丨兄弟丨PY",
-"api":"https://mpimg.cn/down.php/b1cdcf76574a0cb24d5b937d46458cdf.py",
-"filterable":1,
-"quickSearch":1,
-"searchable":1,
-"type":3
-},
-{
-      "key": "裤佬海外PY",
-      "name": "👖裤佬丨海外丨PY",
-      "type": 3,
-      "api": "https://mpimg.cn/down.php/b3d597e2db2ca2c7e7aa03b65aa172c6.py",     "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-},
-{
-            "key": "裤佬央视PY",
-            "name": "👖裤佬丨央视丨PY",
-            "type": 3,
-            "api": "https://mpimg.cn/down.php/2dfd46b7b542f1f4ac34e0af4ec5549b.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
         },
         {
-            "key": "裤佬栏目PY",
-            "name": "👖裤佬丨栏目丨PY",
+            "key": "裤佬快映JS",
+            "name": "👖裤佬丨快映丨JS",
             "type": 3,
-            "api": "https://mpimg.cn/down.php/83d7645e7fa012dba942c467774e7b2b.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-            },
-            {
-            "key": "裤佬视频聚合",
-            "name": "👖裤佬丨视频丨聚合",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "searchable": 1,
-            "quickSearch": 0,
             "changeable": 0,
-            "filterable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/快映.js",
             "ext": {
-                "sp": "Bili",
-                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/57EAD2E_773_bili_20251204145747516newMediaFile.bmp"
-            },
-            "timeout": 20
-            },
-            {
-            "key": "裤佬采集聚合",
-            "name": "👖裤佬丨采集丨聚合",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
-            "searchable": 1,
+                "host": "https://www.baidukuaiy.top",
+                "ver": 3
+            }
+        },
+        {
+            "key": "裤佬毒舌JS",
+            "name": "👖裤佬丨毒舌丨JS",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/laozhang/毒舌影视.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
             },
-            "ext":"1",
             "changeable": 1
+        },
+        {
+            "key": "裤佬端木PY",
+            "name": "👖裤佬丨端木丨PY",
+            "type": 3,
+            "api": "https://gh-proxy.org/https:/raw.githubusercontent.com/alantang1977/X/main/py/端木.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
             },
-           {
-      "key": "wsycj",
-      "name": "👖裤佬丨4K丨采集",
-      "type": 1,
-      "api": "https://api.wsyzy.net/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "4K电影",
-        "Netflix电影",
-        "Netflix自制剧",
-        "邵氏电影",
-        "演唱会",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "动画片",
-        "国产剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "港剧",
-        "台剧",
-        "泰剧",
-        "海外剧",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "有声动漫",
-        "女频恋爱",
-        "反转爽剧",
-        "古装仙侠",
-        "年代穿越",
-        "脑洞悬疑",
-        "现代都市",
-        "擦边短剧",
-        "漫剧"
-      ]
-},
-{
-      "key": "dyttcj",
-      "name": "👖裤佬丨天堂丨采集",
-      "type": 1,
-      "api": "http://dyttzyw.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "科幻片",
-        "爱情片",
-        "战争片",
-        "动画片",
-        "喜剧片",
-        "恐怖片",
-        "剧情片",
-        "纪录片",
-        "伦理片",
-        "国产剧",
-        "香港剧",
-        "台湾剧",
-        "海外剧",
-        "短剧",
-        "欧美剧",
-        "韩国剧",
-        "日本剧",
-        "泰国剧",
-        "国产动漫",
-        "欧美动漫",
-        "海外动漫",
-        "日韩动漫",
-        "港台动漫",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺"
-      ]
-},
-{
-      "key": "bfzycj",
-      "name": "👖裤佬丨暴风丨采集",
-      "type": 1,
-      "api": "http://by.bfzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "理论片",
-        "纪录片",
-        "战争片",
-        "剧情片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "喜剧片",
-        "动作片",
-        "动画片",
-        "预告片",
-        "重生民国",
-        "穿越年代",
-        "现代言情",
-        "反转爽文",
-        "女恋总裁",
-        "闪婚离婚",
-        "都市脑洞",
-        "古装仙侠",
-        "足球",
-        "篮球",
-        "网球",
-        "斯诺克",
-        "电影解说",
-        "欧美综艺",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "国产动漫",
-        "海外剧",
-        "泰国剧",
-        "香港剧",
-        "韩国剧",
-        "台湾剧",
-        "日本剧",
-        "欧美剧",
-        "国产剧"
-      ]
-},
-{
-      "key": "jszycj",
-      "name": "👖裤佬丨极速丨采集",
-      "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "日剧",
-        "马泰剧",
-        "内地剧",
-        "欧美剧",
-        "香港剧",
-        "韩剧",
-        "台湾剧",
-        "恐怖片",
-        "动画片",
-        "剧情片",
-        "战争片",
-        "动作片",
-        "爱情片",
-        "喜剧片",
-        "科幻片",
-        "纪录片",
-        "灾难片",
-        "悬疑片",
-        "犯罪片",
-        "奇幻片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺",
-        "短剧",
-        "伦理片",
-        "体育赛事",
-        "预告片"
-      ]}
+            "changeable": 1
+        },
+        {
+            "key": "裤佬八戒PY",
+            "name": "👖裤佬丨八戒丨PY",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/八戒影视.py",
+            "searchable": 1,
+            "changeable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "裤佬威士PY",
+            "name": "👖裤佬丨威士丨PY",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/9a74bfc73bb24b1582d75d4fc1af6bee.py",
+            "ext": "http://v.2video.cc"
+        },
+        {
+            "key": "裤佬云播PY",
+            "name": "👖裤佬丨云播丨PY",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/天天影视.py"
+        },
+        {
+            "key": "裤佬自营PY",
+            "name": "👖裤佬丨自营丨PY",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py",
+            "searchable": 1,
+            "changeable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "裤佬爱剧PY",
+            "name": "👖裤佬丨爱剧丨PY",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
+            "ext": "http://43.248.117.123:4680"
+        },
+        {
+            "key": "裤佬热播PY",
+            "name": "👖裤佬丨热播丨PY",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/py/热播APP.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60
+        },
+        {
+            "key": "裤佬哔哩PY",
+            "name": "👖裤佬丨哔哩丨PY",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/cluntop.github.io/refs/heads/main/py/哔哩视频.py",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "裤佬哇哇PY",
+            "name": "👖裤佬丨哇哇丨PY",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/wawa.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "裤佬MiFunPPY",
+            "name": "👖裤佬丨MiFunP丨PY",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/MiFunP动漫.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "裤佬猎手PY",
+            "name": "👖裤佬丨猎手丨PY",
+            "api": "https://mpimg.cn/down.php/60fab5ff33f0b0fd88f099ae3be708bf.py",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "key": "裤佬芒果PY",
+            "name": "👖裤佬丨芒果丨PY",
+            "api": "https://mpimg.cn/down.php/643d3f9a0b601f25d3e372eeb66e82a5.py",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "key": "裤佬兄弟PY",
+            "name": "👖裤佬丨兄弟丨PY",
+            "api": "https://mpimg.cn/down.php/b1cdcf76574a0cb24d5b937d46458cdf.py",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "key": "裤佬聚合采集",
+            "name": "👖裤佬丨聚合丨采集",
+            "type": 3,
+            "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js",
+            "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/采集之王.js?type=url&params=https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/采集静态.json"
+        },
+        {
+            "key": "wsycj",
+            "name": "👖裤佬丨4K丨采集",
+            "type": 1,
+            "api": "https://api.wsyzy.net/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "4K电影",
+                "Netflix电影",
+                "Netflix自制剧",
+                "邵氏电影",
+                "演唱会",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "动画片",
+                "国产剧",
+                "欧美剧",
+                "韩剧",
+                "日剧",
+                "港剧",
+                "台剧",
+                "泰剧",
+                "海外剧",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "有声动漫",
+                "女频恋爱",
+                "反转爽剧",
+                "古装仙侠",
+                "年代穿越",
+                "脑洞悬疑",
+                "现代都市",
+                "擦边短剧",
+                "漫剧"
+            ]
+        },
+        {
+            "key": "ryzycj",
+            "name": "👖裤佬丨如意丨采集",
+            "type": 1,
+            "api": "https://cj.rycjapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "灾难片",
+                "爱情片",
+                "科幻片",
+                "战争片",
+                "喜剧片",
+                "恐怖片",
+                "预告片",
+                "剧情片",
+                "记录片",
+                "动画电影",
+                "电影解说",
+                "国产剧",
+                "欧美剧",
+                "香港剧",
+                "韩国剧",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "短剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "足球",
+                "篮球",
+                "网球",
+                "斯诺克",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫"
+            ]
+        },
+        {
+            "key": "dyttcj",
+            "name": "👖裤佬丨天堂丨采集",
+            "type": 1,
+            "api": "http://dyttzyw.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "科幻片",
+                "爱情片",
+                "战争片",
+                "动画片",
+                "喜剧片",
+                "恐怖片",
+                "剧情片",
+                "纪录片",
+                "伦理片",
+                "国产剧",
+                "香港剧",
+                "台湾剧",
+                "海外剧",
+                "短剧",
+                "欧美剧",
+                "韩国剧",
+                "日本剧",
+                "泰国剧",
+                "国产动漫",
+                "欧美动漫",
+                "海外动漫",
+                "日韩动漫",
+                "港台动漫",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧美综艺"
+            ]
+        },
+        {
+            "key": "bfzycj",
+            "name": "👖裤佬丨暴风丨采集",
+            "type": 1,
+            "api": "http://by.bfzyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "理论片",
+                "纪录片",
+                "战争片",
+                "剧情片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "喜剧片",
+                "动作片",
+                "动画片",
+                "预告片",
+                "重生民国",
+                "穿越年代",
+                "现代言情",
+                "反转爽文",
+                "女恋总裁",
+                "闪婚离婚",
+                "都市脑洞",
+                "古装仙侠",
+                "足球",
+                "篮球",
+                "网球",
+                "斯诺克",
+                "电影解说",
+                "欧美综艺",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "国产动漫",
+                "海外剧",
+                "泰国剧",
+                "香港剧",
+                "韩国剧",
+                "台湾剧",
+                "日本剧",
+                "欧美剧",
+                "国产剧"
+            ]
+        },
+        {
+            "key": "jszycj",
+            "name": "👖裤佬丨极速丨采集",
+            "type": 1,
+            "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "日剧",
+                "马泰剧",
+                "内地剧",
+                "欧美剧",
+                "香港剧",
+                "韩剧",
+                "台湾剧",
+                "恐怖片",
+                "动画片",
+                "剧情片",
+                "战争片",
+                "动作片",
+                "爱情片",
+                "喜剧片",
+                "科幻片",
+                "纪录片",
+                "灾难片",
+                "悬疑片",
+                "犯罪片",
+                "奇幻片",
+                "中国动漫",
+                "日本动漫",
+                "欧美动漫",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧美综艺",
+                "短剧",
+                "伦理片",
+                "体育赛事",
+                "预告片"
+            ]}
         ]}
