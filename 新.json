@@ -1,7 +1,13 @@
 {
-  "spider": "https://gitee.com/ztha002/th/raw/master/ztha.jar",
-  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-  "logo": "https://s3.bmp.ovh/2026/06/01/cI0ZYjAQ.jpg",
+//  ✍🏻这个标识是背景图
+{"wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
+
+//  ✍🏻这个标识是头像
+"logo":
+"https://789.st/GlhcG1r",
+
+//  ✍🏻这个标识是jar
+"spider": "http://oss4liview.moji.com/thd_file/2025/12/31/304721934f09bb6602c3f0a6cd154607.jpg;md5;e8f825112622dc0da002217b29e03bed",  // OK杰克
   "sites": [
     {
      {
