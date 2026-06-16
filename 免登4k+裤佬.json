@@ -5,6 +5,9 @@
 "logo":
 "https://789.st/GlhcG1r",
 
+//  ✍🏻这个标识是资源
+"spider": "https://7337.kstore.vip/qxys/qxyc.jar",
+
 //  ✍🏻这个标识是直播
 "lives": [
 {
@@ -43,22 +46,15 @@
             "playerType": 1,
             "logo": "https://gongdian.top/tv/taibiao/{name}.png"
         }],
-
-
-//  ✍🏻这个标识是资源
-"spider": "https://7337.kstore.vip/qxys/qxyc.jar",
             
 "sites":[
-  {
-            "key": "裤佬豆瓣片单",
-            "name": "✈️20260617更新,
+        {
+            "key": "豆瓣",
+            "name": "20260617更新",
             "type": 3,
             "api": "csp_Douban",
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/stymei/paomadeng.jar",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/stymei/paomadeng.txt"
+            "searchable": 0,
+            "changeable": 1
         },
     {
       "key": "双星",
