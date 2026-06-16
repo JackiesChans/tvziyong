@@ -4,12 +4,17 @@
   "logo": "https://s3.bmp.ovh/2026/06/01/cI0ZYjAQ.jpg",
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "公众号：极客小盒",
+     {
+      "key": "drpy_js_豆瓣",
+      "name": "自用资源 20260115更新",
       "type": 3,
       "api": "csp_Douban",
-      "searchable": 0
-    },
+      "searchable":0,
+      "quickSearch":0,
+      "changeable":0,
+      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar",
+      "ext": "http://103.45.162.207:25252/仅供测试/lib/douban.json"
+    }, 
     {
       "key": "腾腾视频",
       "name": "腾腾｜视频",
